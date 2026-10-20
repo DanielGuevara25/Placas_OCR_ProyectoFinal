@@ -5,3 +5,6 @@
 *.webp binary
 *.pt binary
 *.onnx binary
+# Conservar los bytes de las evidencias usadas por los manifiestos SHA256.
+results/**/*.csv -text
+results/training/**/args.yaml -text

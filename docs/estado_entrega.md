@@ -40,7 +40,7 @@ La documentación final debe distinguir ambos recorridos.
 | Pruebas | `tests/` y `docs/pruebas.md` | 10 unitarias y 3 casos reales aprobados |
 | Ejemplos web | `app/static/examples/` | Comprobar permisos antes de publicación pública |
 | Dependencias | `requirements.txt`, `requirements-tested.txt` | Instalación CPU verificada; despliegue por verificar |
-| Git | Rama local `main` y remoto `DanielGuevara25/Placas_OCR_ProyectoFinal` configurados | Primera publicación y verificación remota |
+| Git | Primera versión publicada en `main` de `DanielGuevara25/Placas_OCR_ProyectoFinal` | Completar pendientes antes de la entrega final |
 
 ## Documentación por completar
 
