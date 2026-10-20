@@ -1,0 +1,49 @@
+# Entornos y archivos locales
+.venv/
+.venv-tests/
+.model-cache/
+/Ultralytics/
+.test_deps/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.trt_cache/
+.env
+.env.*
+!.env.example
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store
+
+# Copias de distribución; la raíz contiene el código de trabajo
+/archive/
+*.zip
+*.rar
+
+# Datos e imágenes locales: revisar permisos antes de publicar
+/data/raw/**
+/data/processed/**
+/data/annotations/**
+/data/review/**
+/data/manifests/**
+
+# Salidas de inferencia y recortes con matrículas
+/results/predictions/
+/results/runs/
+/results/ocr/
+/results/reports/dataset_audit_private.json
+
+# Pesos: distribuir por separado con procedencia y hash documentados
+*.pt
+*.onnx
+*.engine
+*.pkl
+*.h5
+
+# Archivos voluminosos de entrenamiento; conservar configuración y métricas
+/results/training/**/weights/
+/results/training/**/train_batch*
+/results/training/**/val_batch*
+*.cache

@@ -1,0 +1,2 @@
+# Compatibilidad con instrucciones anteriores.
+-r app/requirements.txt

@@ -1,0 +1,25 @@
+{
+  "ultralytics": "8.4.171",
+  "torch": "2.7.1+cu128",
+  "data_sha256": "9b6901ab7b53b111d7c9bfe383c5c1eb56de867eb2721bf42afa3bdb23fcdedf",
+  "ajustes": {
+    "data": "C:\\Users\\Byron\\Documents\\Maestria\\Placas_Detector_OCR\\placas_ocr\\dataset_placas\\data_entrenamiento.yaml",
+    "imgsz": 640,
+    "batch": 16,
+    "device": 0,
+    "workers": 4,
+    "conf": 0.001,
+    "iou": 0.7,
+    "max_det": 300,
+    "augment": false,
+    "rect": true,
+    "half": false,
+    "plots": false,
+    "save_json": false,
+    "save_txt": false,
+    "verbose": false,
+    "project": "C:\\Users\\Byron\\Documents\\Maestria\\Placas_Detector_OCR\\placas_ocr\\analisis_overfitting\\evaluaciones",
+    "name": "temporal",
+    "exist_ok": true
+  }
+}

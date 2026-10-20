@@ -1,0 +1,1 @@
+"""Interfaz Flask de PlacaLab."""

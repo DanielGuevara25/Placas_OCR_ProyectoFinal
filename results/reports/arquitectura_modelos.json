@@ -1,0 +1,374 @@
+{
+  "detector": {
+    "checkpoint": "models/best.pt",
+    "sha256": "f2241a4bdb0e2125fcc233b799d5c928fd71c5b068e9bedbc250bc4f7e7843a2",
+    "parameters_before_fusion": 2005603,
+    "top_level_blocks": 23,
+    "yaml": {
+      "nc": 1,
+      "backbone": [
+        [
+          -1,
+          1,
+          "Conv",
+          [
+            16,
+            3,
+            2
+          ]
+        ],
+        [
+          -1,
+          1,
+          "Conv",
+          [
+            32,
+            3,
+            2
+          ]
+        ],
+        [
+          -1,
+          1,
+          "ELAN1",
+          [
+            32,
+            32,
+            16
+          ]
+        ],
+        [
+          -1,
+          1,
+          "AConv",
+          [
+            64
+          ]
+        ],
+        [
+          -1,
+          1,
+          "RepNCSPELAN4",
+          [
+            64,
+            64,
+            32,
+            3
+          ]
+        ],
+        [
+          -1,
+          1,
+          "AConv",
+          [
+            96
+          ]
+        ],
+        [
+          -1,
+          1,
+          "RepNCSPELAN4",
+          [
+            96,
+            96,
+            48,
+            3
+          ]
+        ],
+        [
+          -1,
+          1,
+          "AConv",
+          [
+            128
+          ]
+        ],
+        [
+          -1,
+          1,
+          "RepNCSPELAN4",
+          [
+            128,
+            128,
+            64,
+            3
+          ]
+        ],
+        [
+          -1,
+          1,
+          "SPPELAN",
+          [
+            128,
+            64
+          ]
+        ]
+      ],
+      "head": [
+        [
+          -1,
+          1,
+          "nn.Upsample",
+          [
+            "None",
+            2,
+            "nearest"
+          ]
+        ],
+        [
+          [
+            -1,
+            6
+          ],
+          1,
+          "Concat",
+          [
+            1
+          ]
+        ],
+        [
+          -1,
+          1,
+          "RepNCSPELAN4",
+          [
+            96,
+            96,
+            48,
+            3
+          ]
+        ],
+        [
+          -1,
+          1,
+          "nn.Upsample",
+          [
+            "None",
+            2,
+            "nearest"
+          ]
+        ],
+        [
+          [
+            -1,
+            4
+          ],
+          1,
+          "Concat",
+          [
+            1
+          ]
+        ],
+        [
+          -1,
+          1,
+          "RepNCSPELAN4",
+          [
+            64,
+            64,
+            32,
+            3
+          ]
+        ],
+        [
+          -1,
+          1,
+          "AConv",
+          [
+            48
+          ]
+        ],
+        [
+          [
+            -1,
+            12
+          ],
+          1,
+          "Concat",
+          [
+            1
+          ]
+        ],
+        [
+          -1,
+          1,
+          "RepNCSPELAN4",
+          [
+            96,
+            96,
+            48,
+            3
+          ]
+        ],
+        [
+          -1,
+          1,
+          "AConv",
+          [
+            64
+          ]
+        ],
+        [
+          [
+            -1,
+            9
+          ],
+          1,
+          "Concat",
+          [
+            1
+          ]
+        ],
+        [
+          -1,
+          1,
+          "RepNCSPELAN4",
+          [
+            128,
+            128,
+            64,
+            3
+          ]
+        ],
+        [
+          [
+            15,
+            18,
+            21
+          ],
+          1,
+          "Detect",
+          [
+            "nc"
+          ]
+        ]
+      ],
+      "scale": "",
+      "yaml_file": "yolov9t.yaml",
+      "ch": 3,
+      "channels": 3
+    },
+    "parameters_after_fusion": 1970979
+  },
+  "versions": {
+    "torch": "2.14.1",
+    "ultralytics": "8.4.171",
+    "fast-plate-ocr": "1.1.0",
+    "onnxruntime": "1.31.0"
+  },
+  "ocr": {
+    "model": "cct-s-v2-global-model",
+    "onnx_sha256": "384bbbd2cea3ef54761d3df70822ef3a349ee1a112aeafddbe0e3ba06bc6e47b",
+    "config_sha256": "0335c74a305173bb6f393efed0fde03cadeaa0b649ed8e19f431016d8232d0a6",
+    "cached_config": {
+      "max_plate_slots": 10,
+      "alphabet": "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ_",
+      "pad_char": "_",
+      "img_height": 64,
+      "img_width": 128,
+      "keep_aspect_ratio": false,
+      "interpolation": "linear",
+      "image_color_mode": "rgb",
+      "plate_regions": [
+        "Albania",
+        "Andorra",
+        "Argentina",
+        "Armenia",
+        "Australia",
+        "Austria",
+        "Azerbaijan",
+        "Bahrain",
+        "Belarus",
+        "Belgium",
+        "Bosnia and Herzegovina",
+        "Brazil",
+        "Bulgaria",
+        "Cambodia",
+        "Canada",
+        "Croatia",
+        "Cyprus",
+        "Czech Republic",
+        "Denmark",
+        "Estonia",
+        "Finland",
+        "France",
+        "Georgia",
+        "Germany",
+        "Gibraltar",
+        "Greece",
+        "Guernsey",
+        "Hungary",
+        "Iceland",
+        "Indonesia",
+        "Ireland",
+        "Israel",
+        "Italy",
+        "Latvia",
+        "Liechtenstein",
+        "Lithuania",
+        "Luxembourg",
+        "Malaysia",
+        "Malta",
+        "Mexico",
+        "Moldova",
+        "Monaco",
+        "Montenegro",
+        "Netherlands",
+        "New Zealand",
+        "North Macedonia",
+        "Norway",
+        "Poland",
+        "Portugal",
+        "Qatar",
+        "Romania",
+        "San Marino",
+        "Serbia",
+        "Singapore",
+        "Slovakia",
+        "Slovenia",
+        "Spain",
+        "Sweden",
+        "Switzerland",
+        "Thailand",
+        "Turkey",
+        "United States",
+        "Ukraine",
+        "United Kingdom",
+        "Vietnam",
+        "Unknown"
+      ]
+    },
+    "application_interpolation": "cubic",
+    "inputs": [
+      {
+        "name": "input",
+        "shape": [
+          "unk__909",
+          64,
+          128,
+          3
+        ],
+        "type": "tensor(uint8)"
+      }
+    ],
+    "outputs": [
+      {
+        "name": "plate",
+        "shape": [
+          "unk__910",
+          10,
+          37
+        ],
+        "type": "tensor(float)"
+      },
+      {
+        "name": "region",
+        "shape": [
+          "unk__911",
+          66
+        ],
+        "type": "tensor(float)"
+      }
+    ],
+    "note": "La aplicación usa caracteres; no consume la salida de región."
+  }
+}

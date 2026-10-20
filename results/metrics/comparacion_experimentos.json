@@ -1,0 +1,85 @@
+{
+  "scope": "Análisis de archivos históricos, sin nueva inferencia ni entrenamiento.",
+  "selection_metric": "Mayor mAP50-95 de validación, no test.",
+  "runs_per_configuration": 1,
+  "config_differences_excluding_model_path_and_output_names": {
+    "yolov9t_baseline": {},
+    "yolov9t_regularizacion": {
+      "weight_decay": {
+        "baseline": 0.0005,
+        "experiment": 0.001
+      }
+    },
+    "yolov9t_rotacion": {
+      "degrees": {
+        "baseline": 0.0,
+        "experiment": 5.0
+      }
+    }
+  },
+  "experiments": [
+    {
+      "experiment": "yolov9t_baseline",
+      "epochs": 100,
+      "weight_decay": 0.0005,
+      "degrees": 0.0,
+      "best_logged_epoch": 80,
+      "precision": 0.97499,
+      "recall": 0.97314,
+      "map50": 0.98289,
+      "map50_95": 0.88673,
+      "last_map50_95": 0.88078,
+      "recorded_training_minutes": 87.18966666666667,
+      "reevaluated_best_epoch": 78,
+      "reevaluated_val_map50_95": 0.8869937846554071,
+      "reevaluated_train_map50_95": 0.926800569152158,
+      "reevaluated_gap_pp": 3.98067844967509,
+      "improvement_over_baseline_pp": 0.0
+    },
+    {
+      "experiment": "yolov9t_regularizacion",
+      "epochs": 100,
+      "weight_decay": 0.001,
+      "degrees": 0.0,
+      "best_logged_epoch": 82,
+      "precision": 0.97822,
+      "recall": 0.96825,
+      "map50": 0.98242,
+      "map50_95": 0.89057,
+      "last_map50_95": 0.88368,
+      "recorded_training_minutes": 73.05216666666666,
+      "reevaluated_best_epoch": 84,
+      "reevaluated_val_map50_95": 0.8901742933474285,
+      "reevaluated_train_map50_95": 0.9301414774092223,
+      "reevaluated_gap_pp": 3.996718406179378,
+      "improvement_over_baseline_pp": 0.38399999999999546
+    },
+    {
+      "experiment": "yolov9t_rotacion",
+      "epochs": 100,
+      "weight_decay": 0.0005,
+      "degrees": 5.0,
+      "best_logged_epoch": 89,
+      "precision": 0.9744,
+      "recall": 0.96825,
+      "map50": 0.99087,
+      "map50_95": 0.88884,
+      "last_map50_95": 0.88336,
+      "recorded_training_minutes": 94.3595,
+      "reevaluated_best_epoch": 79,
+      "reevaluated_val_map50_95": 0.8888232823672076,
+      "reevaluated_train_map50_95": 0.9154590494329936,
+      "reevaluated_gap_pp": 2.6635767065785965,
+      "improvement_over_baseline_pp": 0.21099999999999453
+    }
+  ],
+  "sources_sha256": {
+    "results/overfitting/metricas_por_epoca.csv": "3468158f1fe21b57c53a4dea9fe6c1c6b9929832bd1cc2f74ef410fb4e10a0d2",
+    "results/training/yolov9t_baseline/results.csv": "8a2a4b61d48248a38d6bbee87a24eb1bac2e1d88aad4b139ebfb6be7ff07d02e",
+    "results/training/yolov9t_baseline/args.yaml": "49a9fdf55b1543f90643ee0cd0abf9f35ee436c3e7644f06b6bbdef79eac37ef",
+    "results/training/yolov9t_regularizacion/results.csv": "99f772cbea4dc2113ff0947202023f4b55a8cfe2ae172a8b94ff67ca6fa29f59",
+    "results/training/yolov9t_regularizacion/args.yaml": "075f5cfcb657a46869b8828a5c27e6b4befa6c4922c42a45d42f31bc5ee83933",
+    "results/training/yolov9t_rotacion/results.csv": "c14e134fdfaa72577b95db8ba15285056d211795dfa135fa3f34a7124cfee7f1",
+    "results/training/yolov9t_rotacion/args.yaml": "3380b3abad7b0e8af10e83ccf0b8f34d1ffd7dbe3e7af84c58f560d8e464ba47"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "scope": "Auditoría local de imágenes y etiquetas; no entrenamiento ni inferencia.",
+  "splits": {
+    "train": {
+      "images": 5865,
+      "empty_labels": 0,
+      "valid_boxes": 6570,
+      "readable_images": 5865,
+      "multi_plate_images": 678,
+      "orphan_labels": 0
+    },
+    "val": {
+      "images": 733,
+      "empty_labels": 0,
+      "valid_boxes": 819,
+      "readable_images": 733,
+      "multi_plate_images": 84,
+      "orphan_labels": 0
+    },
+    "test": {
+      "images": 734,
+      "empty_labels": 0,
+      "valid_boxes": 819,
+      "readable_images": 734,
+      "multi_plate_images": 80,
+      "orphan_labels": 0
+    }
+  },
+  "total_images": 7332,
+  "total_valid_boxes": 8208,
+  "manifest_rows": 7332,
+  "manifest_group_crossings": 0,
+  "file_duplicates": {
+    "duplicate_groups": 0,
+    "images_in_duplicate_groups": 0,
+    "cross_split_groups": 0
+  },
+  "decoded_pixel_duplicates": {
+    "duplicate_groups": 0,
+    "images_in_duplicate_groups": 0,
+    "cross_split_groups": 0
+  },
+  "issue_count": 0,
+  "review_rows": 13621,
+  "review_marked_yes": 7332,
+  "review_statuses": {
+    "CAJAS_POR_REVISAR": 7332,
+    "ERROR_IMAGEN": 6289
+  },
+  "excluded_rows": 0,
+  "image_width_px": {
+    "min": 112.0,
+    "q25": 244.0,
+    "median": 297.0,
+    "q75": 389.0,
+    "max": 902.0,
+    "mean": 325.03286961265684,
+    "std": 118.42408045329657
+  },
+  "image_height_px": {
+    "min": 81.0,
+    "q25": 164.0,
+    "median": 202.0,
+    "q75": 265.0,
+    "max": 675.0,
+    "mean": 223.788188761593,
+    "std": 82.87704600256737
+  },
+  "image_bytes": {
+    "min": 5381.0,
+    "q25": 22837.0,
+    "median": 31744.0,
+    "q75": 48617.5,
+    "max": 220182.0,
+    "mean": 39869.266503000545,
+    "std": 26104.094147666186
+  },
+  "boxes_per_image": {
+    "1": 6490,
+    "2": 812,
+    "3": 26,
+    "4": 4
+  },
+  "box_area_pct": {
+    "min": 0.0234834664,
+    "q25": 0.7591134053,
+    "median": 1.2101836505999999,
+    "q75": 1.555192616,
+    "max": 4.549664266000001,
+    "mean": 1.1768116418054215,
+    "std": 0.5277939093783698
+  },
+  "box_width_px": {
+    "min": 2.999936,
+    "q25": 32.000002,
+    "median": 37.9999525,
+    "q75": 45.00011475,
+    "max": 79.0,
+    "mean": 38.28703649049708,
+    "std": 10.718779602454095
+  },
+  "box_height_px": {
+    "min": 2.9999860000000003,
+    "q25": 15.000046,
+    "median": 18.000061,
+    "q75": 22.999956,
+    "max": 77.999762,
+    "mean": 19.37256506493665,
+    "std": 5.931180376176046
+  },
+  "box_aspect_ratio": {
+    "min": 0.227273537191997,
+    "q25": 1.8387059885736003,
+    "median": 2.062503111332143,
+    "q75": 2.235290179932573,
+    "max": 5.999957000343996,
+    "mean": 2.013932064718384,
+    "std": 0.37263062362715954
+  },
+  "box_area_below_one_pct": 2928,
+  "box_height_below_16_px": 2530,
+  "width_height_pearson_r": 0.8743198557660751,
+  "manifest_sha256": "7be91c174b3d447113b867299bbf0d0eae6bd8078784ba73fa83df1bc9cffadd",
+  "limits": "Sin auditoría de casi duplicados, vehículo/sesión, exactitud visual de cajas, legibilidad OCR ni procedencia/licencia."
+}

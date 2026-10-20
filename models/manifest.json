@@ -1,0 +1,10 @@
+{
+  "web_detector": {
+    "path": "models/best.pt",
+    "source": "results/training/yolov9t_regularizacion/weights/best.pt",
+    "sha256": "f2241a4bdb0e2125fcc233b799d5c928fd71c5b068e9bedbc250bc4f7e7843a2",
+    "bytes": 4644617
+  },
+  "ocr": "cct-s-v2-global-model",
+  "distribution": "Pesos locales excluidos de Git; descarga pública pendiente."
+}

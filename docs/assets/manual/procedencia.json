@@ -1,0 +1,17 @@
+{
+  "source": "http://127.0.0.1:8080/",
+  "capture_method": "Capturas de navegador de la aplicación real, sin sustituir resultados.",
+  "files": [
+    "01_inicio.jpg",
+    "02_formulario.jpg",
+    "03_coincidencia.jpg",
+    "04_inconsistencia.jpg",
+    "05_sin_placa.jpg"
+  ],
+  "observed_ui_cases": [
+    "Coincidencia GCA4771",
+    "Inconsistencia GTW9312 frente a GTW9311",
+    "Sin detecciones con sin_placa.png"
+  ],
+  "annotations": "Anotaciones explicativas en manual_usuario.md; capturas originales sin alteración."
+}

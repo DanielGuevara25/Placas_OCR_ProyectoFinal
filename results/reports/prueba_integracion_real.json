@@ -1,0 +1,161 @@
+{
+  "run_utc": "2026-10-20T01:42:47.645076+00:00",
+  "python": "3.12.14",
+  "device": "cpu",
+  "weights_sha256": "f2241a4bdb0e2125fcc233b799d5c928fd71c5b068e9bedbc250bc4f7e7843a2",
+  "versions": {
+    "torch": "2.14.1",
+    "ultralytics": "8.4.171",
+    "fast-plate-ocr": "1.1.0",
+    "Flask": "3.1.3",
+    "numpy": "2.5.4"
+  },
+  "cases": [
+    {
+      "case": "coincidencia",
+      "input": "gca4771.png",
+      "http_status": 200,
+      "input_sha256": "031f8f9b233074af9c15b9f632887a17339279a85ab32d97f2f9e750a869c62a",
+      "expected_validation_status": "coincide",
+      "matches_expected_status": true,
+      "error": null,
+      "plate_count": 1,
+      "validation": {
+        "declared_plate": "GCA4771",
+        "manual_review_required": false,
+        "message": "La lectura OCR coincide con la placa declarada. Se registra solo coincidencia de placa.",
+        "normalized_reading": "GCA4771",
+        "ocr_character_min": 0.6,
+        "ocr_mean_min": 0.85,
+        "scope": "Apoyo a validación de placa; no valida documentos, identidad completa del vehículo ni aprueba pólizas.",
+        "selected_plate_id": 1,
+        "selection_method": "automatic_single",
+        "status": "coincide",
+        "text_matches": true,
+        "threshold_note": "Umbrales iniciales de revisión no calibrados; deben validarse con lecturas verdaderas."
+      },
+      "plates": [
+        {
+          "bbox": [
+            283,
+            146,
+            356,
+            176
+          ],
+          "character_confidences": [
+            0.9999595880508423,
+            0.9999264478683472,
+            0.9999105930328369,
+            0.9997169375419617,
+            0.9997288584709167,
+            0.9997953772544861,
+            0.9999514818191528
+          ],
+          "crop_file": "placa_001.png",
+          "detection_confidence": 0.8991518020629883,
+          "id": 1,
+          "ocr_error": null,
+          "ocr_mean_confidence": 0.9998556120055062,
+          "ocr_status": "read",
+          "plate_text": "GCA4771",
+          "validation": {
+            "manual_review_required": false,
+            "message": "La lectura OCR coincide con la placa declarada. Se registra solo coincidencia de placa.",
+            "normalized_reading": "GCA4771",
+            "status": "coincide",
+            "text_matches": true
+          }
+        }
+      ],
+      "processing_ms": 1949.19,
+      "model_load_ms": 1987.36
+    },
+    {
+      "case": "inconsistencia",
+      "input": "gtw9311.png",
+      "http_status": 200,
+      "input_sha256": "4a39a097a4ef318200f20f28af72faa6d769b29fab0265ab623049c54f00bdf4",
+      "expected_validation_status": "inconsistencia",
+      "matches_expected_status": true,
+      "error": null,
+      "plate_count": 1,
+      "validation": {
+        "declared_plate": "GTW9312",
+        "manual_review_required": true,
+        "message": "La lectura OCR no coincide con la placa declarada. Requiere revisión manual; no implica fraude.",
+        "normalized_reading": "GTW9311",
+        "ocr_character_min": 0.6,
+        "ocr_mean_min": 0.85,
+        "scope": "Apoyo a validación de placa; no valida documentos, identidad completa del vehículo ni aprueba pólizas.",
+        "selected_plate_id": 1,
+        "selection_method": "automatic_single",
+        "status": "inconsistencia",
+        "text_matches": false,
+        "threshold_note": "Umbrales iniciales de revisión no calibrados; deben validarse con lecturas verdaderas."
+      },
+      "plates": [
+        {
+          "bbox": [
+            42,
+            232,
+            111,
+            275
+          ],
+          "character_confidences": [
+            0.9999722242355347,
+            0.9999769926071167,
+            0.999982476234436,
+            0.999970555305481,
+            0.9999430179595947,
+            0.999932050704956,
+            0.9999661445617676
+          ],
+          "crop_file": "placa_001.png",
+          "detection_confidence": 0.9173670411109924,
+          "id": 1,
+          "ocr_error": null,
+          "ocr_mean_confidence": 0.9999633516584124,
+          "ocr_status": "read",
+          "plate_text": "GTW9311",
+          "validation": {
+            "manual_review_required": true,
+            "message": "La lectura OCR no coincide con la placa declarada. Requiere revisión manual; no implica fraude.",
+            "normalized_reading": "GTW9311",
+            "status": "inconsistencia",
+            "text_matches": false
+          }
+        }
+      ],
+      "processing_ms": 51.61,
+      "model_load_ms": 0.0
+    },
+    {
+      "case": "sin_placa",
+      "input": "sin_placa.png",
+      "http_status": 200,
+      "input_sha256": "3490bdb3b0ed0489a97be851a2ba516cf62604a509e0a44ef3760a8c6fb969b5",
+      "expected_validation_status": "sin_placa",
+      "matches_expected_status": true,
+      "error": null,
+      "plate_count": 0,
+      "validation": {
+        "declared_plate": "ABC1234",
+        "manual_review_required": true,
+        "message": "No se detectó una placa. Solicita otra fotografía del vehículo.",
+        "ocr_character_min": 0.6,
+        "ocr_mean_min": 0.85,
+        "scope": "Apoyo a validación de placa; no valida documentos, identidad completa del vehículo ni aprueba pólizas.",
+        "selected_plate_id": null,
+        "selection_method": null,
+        "status": "sin_placa",
+        "threshold_note": "Umbrales iniciales de revisión no calibrados; deben validarse con lecturas verdaderas."
+      },
+      "plates": [],
+      "processing_ms": 37.94,
+      "model_load_ms": 0.0
+    }
+  ],
+  "all_requests_succeeded": true,
+  "all_expected_statuses_observed": true,
+  "note": "Tres ejemplos funcionales; no constituyen una evaluación estadística de precisión."
+}

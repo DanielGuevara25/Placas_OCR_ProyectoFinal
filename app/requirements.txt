@@ -1,0 +1,2 @@
+# Instalar desde la raíz: python -m pip install -r app/requirements.txt
+-r ../requirements.txt

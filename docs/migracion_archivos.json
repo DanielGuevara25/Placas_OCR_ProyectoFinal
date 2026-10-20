@@ -1,0 +1,174 @@
+[
+  {
+    "antes": "Data",
+    "despues": "__datos_originales_temporal"
+  },
+  {
+    "antes": "__datos_originales_temporal/raw",
+    "despues": "archive/migracion_copia_interrumpida"
+  },
+  {
+    "antes": "__datos_originales_temporal",
+    "despues": "data/raw/Data"
+  },
+  {
+    "antes": "imagenes",
+    "despues": "data/raw/imagenes"
+  },
+  {
+    "antes": "dataset_placas",
+    "despues": "data/processed/dataset_placas"
+  },
+  {
+    "antes": "anotaciones_propuestas",
+    "despues": "data/annotations/anotaciones_propuestas"
+  },
+  {
+    "antes": "revision_ocr_test",
+    "despues": "data/review/revision_ocr_test"
+  },
+  {
+    "antes": "dataset_placas_validas.csv",
+    "despues": "data/manifests/dataset_placas_validas.csv"
+  },
+  {
+    "antes": "duplicados_dataset.csv",
+    "despues": "data/manifests/duplicados_dataset.csv"
+  },
+  {
+    "antes": "errores_revision_duplicados.csv",
+    "despues": "data/manifests/errores_revision_duplicados.csv"
+  },
+  {
+    "antes": "entrenamientos",
+    "despues": "results/training"
+  },
+  {
+    "antes": "evaluation",
+    "despues": "results/evaluation"
+  },
+  {
+    "antes": "analisis_overfitting",
+    "despues": "results/overfitting"
+  },
+  {
+    "antes": "evaluacion_final_ocr",
+    "despues": "results/ocr"
+  },
+  {
+    "antes": "resultados",
+    "despues": "results/predictions/individual"
+  },
+  {
+    "antes": "resultados_lote",
+    "despues": "results/predictions/lote"
+  },
+  {
+    "antes": "runs",
+    "despues": "results/runs"
+  },
+  {
+    "antes": "weights",
+    "despues": "models/legacy"
+  },
+  {
+    "antes": "yolov9t.pt",
+    "despues": "models/pretrained/yolov9t.pt"
+  },
+  {
+    "antes": "codigo_proyecto",
+    "despues": "archive/codigo_proyecto"
+  },
+  {
+    "antes": "placas_web",
+    "despues": "archive/placas_web"
+  },
+  {
+    "antes": "config.py",
+    "despues": "src/config.py"
+  },
+  {
+    "antes": "providers.py",
+    "despues": "src/providers.py"
+  },
+  {
+    "antes": "plate_detector.py",
+    "despues": "src/plate_detector.py"
+  },
+  {
+    "antes": "ocr_engine.py",
+    "despues": "src/ocr_engine.py"
+  },
+  {
+    "antes": "entrenar_placas.py",
+    "despues": "src/entrenar_placas.py"
+  },
+  {
+    "antes": "entrenar_mejoras.py",
+    "despues": "src/entrenar_mejoras.py"
+  },
+  {
+    "antes": "evaluar_curvas.py",
+    "despues": "src/evaluar_curvas.py"
+  },
+  {
+    "antes": "evaluar_ocr.py",
+    "despues": "src/evaluar_ocr.py"
+  },
+  {
+    "antes": "generar_cajas.py",
+    "despues": "src/generar_cajas.py"
+  },
+  {
+    "antes": "preparar_dataset.py",
+    "despues": "src/preparar_dataset.py"
+  },
+  {
+    "antes": "preparar_revision_ocr.py",
+    "despues": "src/preparar_revision_ocr.py"
+  },
+  {
+    "antes": "revisar_duplicados.py",
+    "despues": "src/revisar_duplicados.py"
+  },
+  {
+    "antes": "main.py",
+    "despues": "src/main.py"
+  },
+  {
+    "antes": "web_service.py",
+    "despues": "app/web_service.py"
+  },
+  {
+    "antes": "web_ocr.py",
+    "despues": "app/web_ocr.py"
+  },
+  {
+    "antes": "web_validation.py",
+    "despues": "app/web_validation.py"
+  },
+  {
+    "antes": "web_app.py",
+    "despues": "app/app.py"
+  },
+  {
+    "antes": "templates",
+    "despues": "app/templates"
+  },
+  {
+    "antes": "static",
+    "despues": "app/static"
+  },
+  {
+    "antes": "requirements_web.txt",
+    "despues": "app/requirements.txt"
+  },
+  {
+    "antes": "LEEME_WEB.md",
+    "despues": "docs/historico/LEEME_WEB_original.md"
+  },
+  {
+    "antes": "README.md",
+    "despues": "docs/historico/README_original.md"
+  }
+]
