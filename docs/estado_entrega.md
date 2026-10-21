@@ -25,7 +25,8 @@ La documentación final debe distinguir ambos recorridos.
 3. Reconstruir dependencias reproducibles y verificar pruebas e inferencia:
    realizado en `.venv-tests/`, Python 3.12.14 CPU; versiones en `requirements-tested.txt`.
 4. Completar README y los seis documentos exigidos en `docs/`.
-5. Preparar arranque de producción, distribución de pesos y despliegue web.
+5. Distribución de tres checkpoints finales preparada y documentada;
+   arranque de producción y despliegue web pendientes.
 6. Revisar archivos publicables, crear el repositorio y subir el código.
 7. Incorporar URL de la aplicación y enlaces reales de ambos videos.
 
@@ -87,8 +88,9 @@ de escucha, memoria disponible, dispositivo CPU/GPU, suministro de pesos y
 descarga inicial del OCR. La retención de análisis usa memoria del proceso;
 debe tenerse en cuenta al configurar múltiples procesos.
 
-Los pesos están excluidos de Git. El repositorio final debe explicar su descarga,
-procedencia, licencia, ubicación y SHA256 para permitir reproducir la inferencia.
+Los tres checkpoints finales están preparados para incluirse en Git, con origen,
+descarga y SHA256 documentados; los pesos por época permanecen fuera.
+El acceso remoto se comprueba después de publicar esta revisión.
 También hay que revisar las imágenes de ejemplo y los resultados que contengan
 matrículas antes de hacerlos públicos.
 
@@ -105,3 +107,16 @@ matrículas antes de hacerlos públicos.
 - Repositorio confirmado: `DanielGuevara25/Placas_OCR_ProyectoFinal`.
   Destino del despliegue pendiente.
 - Enlaces de videos y preguntas asignadas por el profesor.
+
+## Revisión posterior de requisitos
+
+La auditoría del compañero identificó carencias adicionales: los cinco notebooks
+ya se crearon y ejecutaron con salidas reales; los tres pesos finales quedaron
+preparados para descarga; se completaron los apartados del README y se aplicó
+AGPL-3.0-only tras autorización del equipo. Ver `auditoria_directriz.md`.
+
+El notebook docente de Semana 5 confirma que falta el estudio ampliado de
+Optuna, escenarios críticos, importancia, PDP e interacciones. No se marca
+resuelto por añadir `04_optimizacion.ipynb`. Existe una RTX 5070 Ti de 16 GB
+en el equipo, pero el entorno de pruebas actual usa PyTorch CPU; preparar
+entrenamientos requiere restaurar un entorno CUDA y acordar el presupuesto.

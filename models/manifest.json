@@ -6,5 +6,28 @@
     "bytes": 4644617
   },
   "ocr": "cct-s-v2-global-model",
-  "distribution": "Pesos locales excluidos de Git; descarga pública pendiente."
+  "distribution": "Tres checkpoints finales incluidos en Git, con SHA256. No incluye dataset, pesos por epoca ni licencia abierta del dataset.",
+  "available_checkpoints": {
+    "best": {
+      "path": "models/best.pt",
+      "experiment": "yolov9t_regularizacion",
+      "sha256": "f2241a4bdb0e2125fcc233b799d5c928fd71c5b068e9bedbc250bc4f7e7843a2",
+      "bytes": 4644617,
+      "download_url": "https://raw.githubusercontent.com/DanielGuevara25/Placas_OCR_ProyectoFinal/main/models/best.pt"
+    },
+    "baseline": {
+      "path": "models/baseline.pt",
+      "experiment": "yolov9t_baseline",
+      "sha256": "a61dee0f49c4abc84505af9df444ff5709e92fede7ea6edf6bf5fb41a3be1d69",
+      "bytes": 4644489,
+      "download_url": "https://raw.githubusercontent.com/DanielGuevara25/Placas_OCR_ProyectoFinal/main/models/baseline.pt"
+    },
+    "rotacion": {
+      "path": "models/rotacion.pt",
+      "experiment": "yolov9t_rotacion",
+      "sha256": "0354a2e108ef79e98f537c935b3397fc92d92f82817c57d43c46938db6c1ee72",
+      "bytes": 4644617,
+      "download_url": "https://raw.githubusercontent.com/DanielGuevara25/Placas_OCR_ProyectoFinal/main/models/rotacion.pt"
+    }
+  }
 }

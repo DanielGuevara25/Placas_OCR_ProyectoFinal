@@ -47,3 +47,8 @@ Thumbs.db
 /results/training/**/train_batch*
 /results/training/**/val_batch*
 *.cache
+.ipynb_checkpoints/
+# Sólo tres checkpoints finales, pequeños y con hash documentado.
+!/models/best.pt
+!/models/baseline.pt
+!/models/rotacion.pt
