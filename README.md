@@ -12,8 +12,10 @@ revisión de evidencia vehicular; no aprueba pólizas ni demuestra fraude o iden
 Repositorio: [DanielGuevara25/Placas_OCR_ProyectoFinal](https://github.com/DanielGuevara25/Placas_OCR_ProyectoFinal).
 
 Estado: versión local verificada, cinco notebooks ejecutados y tres checkpoints
-finales disponibles en esta revisión. Siguen pendientes la ampliación experimental
-de Semana 5, el despliegue público y los videos.
+finales disponibles en esta revisión. El estudio ampliado de Semana 5 terminó:
+60 ensayos procesados, dos ajustes de 100 épocas y pruebas de robustez.
+La búsqueda seleccionó la referencia; no hubo mejora demostrada.
+Siguen pendientes la publicación de esta revisión, el despliegue público y los videos.
 
 ## Contenido
 
@@ -78,7 +80,9 @@ El [EDA](docs/analisis_datos.md) aporta estadísticas y seis gráficos.
 
 La [arquitectura](docs/arquitectura.md) contiene el diagrama y las versiones.
 La [optimización](docs/optimizacion.md) y el [contraste con Semana 5](docs/semana5_brechas.md)
-distinguen los experimentos realizados de Optuna/PDP/interacciones aún pendientes.
+distinguen las corridas históricas del estudio ampliado. Ver los
+[resultados de Semana 5](docs/resultados_semana5.md), con importancia, PDP,
+robustez y limitaciones.
 
 ## Documentación técnica
 
@@ -195,7 +199,7 @@ Las instrucciones, cinco capturas y soluciones están en el
 | [01_exploracion](notebooks/01_exploracion.ipynb) | Particiones, estadísticas y seis gráficos |
 | [02_preprocesamiento](notebooks/02_preprocesamiento.ipynb) | Etiquetas, RGB/BGR y normalización |
 | [03_modelado](notebooks/03_modelado.ipynb) | Configuraciones, arquitectura y pesos |
-| [04_optimizacion](notebooks/04_optimizacion.ipynb) | Comparación real y pendientes de Semana 5 |
+| [04_optimizacion](notebooks/04_optimizacion.ipynb) | Comparación histórica y estudio ampliado de Semana 5 ejecutado |
 | [05_evaluacion](notebooks/05_evaluacion.ipynb) | Detector, OCR, errores e integración |
 
 Se ejecutaron y conservaron sus salidas, sin iniciar nuevos entrenamientos.

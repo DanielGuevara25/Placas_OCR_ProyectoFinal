@@ -203,3 +203,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+    from integrar_estudio_notebook import actualizar
+    actualizar()

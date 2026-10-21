@@ -1,0 +1,15 @@
+{
+  "checkpoint": ".model-cache\\semana5\\training\\final_referencia\\weights\\best.pt",
+  "sha256": "66f2fe928324e1d33048af443e8bbfaa66a810aab0b3c9158bf71d85aa4cdec3",
+  "params": {
+    "weight_decay": 0.0005,
+    "degrees": 0.0
+  },
+  "epochs": 100,
+  "validation": {
+    "metrics/precision(B)": 0.9777533139708665,
+    "metrics/recall(B)": 0.9659455373741088,
+    "metrics/mAP50(B)": 0.9889394505129431,
+    "metrics/mAP50-95(B)": 0.8901083528244627
+  }
+}

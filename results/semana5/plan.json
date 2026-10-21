@@ -1,0 +1,36 @@
+{
+  "seed": 42,
+  "metric": "validation mAP50-95; best epoch within proxy budget",
+  "trials": 60,
+  "proxy_epochs": 12,
+  "fraction": 0.35,
+  "final_epochs": 100,
+  "parameters": {
+    "weight_decay": [
+      0.0001,
+      0.003,
+      "log"
+    ],
+    "degrees": [
+      0.0,
+      10.0
+    ]
+  },
+  "sampler": "TPE, 10 startup trials",
+  "pruner": "Median; 10 startup trials, 4 warmup epochs",
+  "optimizer": "SGD",
+  "lr0": 0.01,
+  "momentum": 0.937,
+  "gpu": "NVIDIA GeForce RTX 5070 Ti",
+  "torch": "2.7.1+cu128",
+  "ultralytics": "8.4.171",
+  "python": "3.11.9",
+  "pretrained_sha256": "410e3caca789aa8fec19971c05577616cbb963a416bcd0228171b2dff7f718f7",
+  "limitations": [
+    "Una semilla; IC de robustez por imagen no mide variación de entrenamiento",
+    "Submuestra fija de train; ranking proxy puede cambiar a 100 épocas",
+    "Val se reutiliza para búsqueda y análisis; resultados de desarrollo, no estimación independiente",
+    "Sin negativos ni grupos por vehículo/sesión; no estima falsos positivos en población real",
+    "Desbalance binario y caída de variables médicas no se trasladan literalmente a detección de una clase"
+  ]
+}

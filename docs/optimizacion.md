@@ -1,5 +1,10 @@
 # Optimización del detector YOLOv9t
 
+**Actualización 21/10/2026:** este documento conserva la comparación histórica
+de tres corridas. El estudio ampliado posterior sí ejecutó Optuna, importancia,
+PDP y robustez; consultar `resultados_semana5.md` y `estudio_semana5.md`.
+Las carencias descritas en este análisis corresponden a la evidencia previa.
+
 ## Objetivo y alcance
 
 Se compararon tres configuraciones del detector de placas para seleccionar

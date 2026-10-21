@@ -1,5 +1,11 @@
 # Contraste con el notebook docente de Semana 5
 
+**Actualización 21/10/2026:** el estudio ampliado ya se ejecutó. Los estados
+pendientes de este diagnóstico corresponden a la revisión previa. Consultar
+`resultados_semana5.md`: 60 ensayos procesados, 17 completos, importancia/PDP
+y nueve escenarios de robustez. No hubo mejora demostrada ni una nueva
+evaluación de test.
+
 Fuente revisada: `Semana5_Workshops_semana5 (1).ipynb`, facilitada por el usuario.
 Es un ejemplo de clasificación de tumores con Random Forest, no un entrenamiento
 de YOLO ni una evaluación de placas. Se revisaron sus 36 celdas sin ejecutar
@@ -22,7 +28,13 @@ de hiperparámetros: dentro de cada corrida no cambia la configuración buscada.
 El ejemplo docente tampoco demuestra que las cifras médicas sean aplicables
 a este proyecto. No se copiarán sus resultados para cubrir un apartado de placas.
 
-## Adaptación propuesta, aún no ejecutada
+## Adaptación y ejecución ampliada
+
+El 20/10/2026 se autorizó ejecutar el estudio durante varias horas con la GPU.
+El diseño concreto está en `estudio_semana5.md` y el programa en
+`tools/estudio_semana5.py`. Los estados de la tabla anterior describen las
+evidencias previas al estudio; sólo los resultados efectivamente guardados
+permiten actualizarlos. No se marca completado al iniciar el proceso.
 
 1. Definir si el estudio ampliará hiperparámetros de entrenamiento del detector
    o hiperparámetros de inferencia. Son estudios diferentes y deben titularse
@@ -43,6 +55,6 @@ a este proyecto. No se copiarán sus resultados para cubrir un apartado de placa
 
 ## Estado de entrega
 
-El notebook `04_optimizacion.ipynb` ejecuta la comparación real disponible y
-señala estas carencias. Su existencia resuelve la ausencia de un archivo notebook,
-pero no cierra el requisito experimental de Semana 5.
+El notebook `04_optimizacion.ipynb` conserva la comparación histórica y añade
+el estudio ampliado ejecutado, con estados, tablas y figuras reales. Persisten
+los límites metodológicos señalados en `resultados_semana5.md`.

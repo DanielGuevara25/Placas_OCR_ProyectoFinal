@@ -118,5 +118,14 @@ AGPL-3.0-only tras autorización del equipo. Ver `auditoria_directriz.md`.
 El notebook docente de Semana 5 confirma que falta el estudio ampliado de
 Optuna, escenarios críticos, importancia, PDP e interacciones. No se marca
 resuelto por añadir `04_optimizacion.ipynb`. Existe una RTX 5070 Ti de 16 GB
-en el equipo, pero el entorno de pruebas actual usa PyTorch CPU; preparar
-entrenamientos requiere restaurar un entorno CUDA y acordar el presupuesto.
+en el equipo. El 20/10 el usuario autorizó varias horas de GPU; se recuperó
+Python 3.11 y se comprobó una operación CUDA con PyTorch 2.7.1+cu128.
+El diseño de 60 ensayos cortos, dos ajustes completos y robustez se describe
+en `estudio_semana5.md`. Consultar `results/semana5/estado.json` para el avance
+real: no se considera completado mientras falten resultados.
+
+Actualización 21/10/2026: estudio completado a las 03:20; 60 ensayos procesados
+(17 completos, 43 podados), dos ajustes de 100 épocas y nueve escenarios de
+robustez. La selección coincide con la referencia: no hubo mejora demostrada.
+Ver `resultados_semana5.md`. Los cinco notebooks se ejecutaron sin errores.
+Falta publicar/verificar esta revisión, desplegar la aplicación y los videos.

@@ -1,0 +1,9 @@
+{
+  "trial": 0,
+  "proxy_value": 0.8687811676022064,
+  "params": {
+    "weight_decay": 0.0005,
+    "degrees": 0.0
+  },
+  "selection": "Mayor mAP50-95 proxy; no se elige con robustez ni test"
+}

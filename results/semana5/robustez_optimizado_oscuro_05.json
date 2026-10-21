@@ -1,0 +1,7332 @@
+[
+  {
+    "image_sha256": "0ba1be0e5deff4a66e2d046f819eca9bd4a775c8c776d01910d38729587e5ed6",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "4a9735d96076a644440d086a6b242a50065f4b40ce000e3869ff7b89c0d0d6ad",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 1,
+    "small_gt": 2,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "6283e10ec53908752f2a69606f74502b71fa85255b3e83ba12a18739bff493b4",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "b650726910ed17fa2abde535401f7949da5e9bf7bff4ca47fa7c5610430fb102",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "ce1c85255c97dc89c0f34a2c424f5be0d3628df58fe68daf72a8e3f2da05f8b5",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "fd75f10635c251b8c254b1951987aafd48b1ae69ecfaa9a76c16573641f7b591",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "993ab4c0aa33e9ca08b2eacbfedebc7ab5c695469a64aae8ad8efc41088ec679",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "a54de7a22eae80123324d228e849538f9067d5441d83c7f22730101b1c01b8af",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "384d67f4029755bf2d99778eb6c63b803204295049ae836a17ff11948a358157",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "0a4561c4ef663d7bc2b206ac0a101a97f4f74e73c42080689c5ac4b0fbf1bc23",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "18c9b09e0915057422871d81180857ff22c1e5f4dd095888d38fa628053418ef",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "c847613cd6063cbfd295f0813a2c5cd9b8d197c9e44968623bd1cef46109410a",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "ad1410e9ffb4eb1b1ce3bc218b54a2b7a15d339f08ff92351daf40b9bd5ca93e",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "a3c1c071c90b1c9696de00ad5682846c986f087da84152065c83d0318a3dca1a",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "839741f8371aa93700fef7f3d2f7c42e8dfafe5389e9f7a1e1ae632e04314a6e",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "9274bb9a74541219f5213dba91e3544a1d7f64d819c525d32ff3a366790f32d8",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 1,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "1ed1d1448a9be09204f1b6344bd5d2f892a4c0a098ab9534aae066a81750fb69",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 2,
+    "small_tp": 2
+  },
+  {
+    "image_sha256": "9a709bba38880c520cfcda3b2d6c2e7bb5dabac66385b25ec76ba34056d8a0e8",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "de78f4871f7264b25a638ff3d1be62fb1178675c50fc7a83845a792cae430189",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "57dde9be52dfd739a36236380d396bbef45efcb73d5f114742d46e066001d563",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "6147844e08c8ee7f3c8d3dac9c08242ac4d7ed33b1d9b899898ca1cdc21d470c",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "ddb892307088d2534c15986da31ca1248889d6d1d910a4f7a24530526fa08200",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "7ffa5b499574ad3c03e92974d7347ab3f4419841ddc21960d0c69d3061fa7a8f",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "d7331a7921f12dfbb5d3525ea941cc0860e66155bb3fd27a9ddbbe51e6d0e24f",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "46a6dfa0aff720cabd494041cf443c22b64c0556ca1edecd74f5be545d7f0950",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "0538bba73f739bfcaad0f72e22b1b8fd46fde483c792d08f8cc39f7c6a542fa7",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "53371e3a780ed0b05a67dfe0f209eb1c5d6afd14958e4787df243806c3866fe7",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "4ea4a46e290b1e746193c6f1598f0096678d63ad10e9645ae8440a18439b15e9",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "9196a7a770bdbc9ba8383237128786b49182a0d564be8091f00fddca248dafd2",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "94fe60c118126a2da360a80a3c7ff28ce0d9fa9ac23fb7d7411835862154dde0",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "059c69952e4d90990ded1ae2436644734941ccc2c120d118fd839147dd01c815",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "a90d60268d2ad40c390e11e675727de63c6ba23a3d65f9d4c7cbc28c526fe4e6",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "fb6e853e8f0d4fdef4ec610bbd812b8153d95a50beaf902c36ad64559f80e8f5",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "9310e8b9c14770dd226213fc5934bd495773a2a8dc582120942f7d812fd73513",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "abbc2bc096589a4f457980dd98d087605abc965db26f96645dafe3cdb1ccab1b",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "b2537b4747c8491efbe6487a855d9c5207fdc68c69847f7d37a7867013463859",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "739dcdded715ece9becdd2701bfc7323e5bf1e0314862369bfe4d8768a2280b3",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "514e568c5846dcbfec63f29e942107ced0d564e29086b1387556166fd14ad646",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 1,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "e3df90fd500da951ab37d4e6e4ee22e878e431037b0243b0d1dc1fc75b4f3644",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "438a2b25ced4bb1e6e744c8797c957f389d1f8b53a0943b260e339b53f463792",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "25dc03dffaa56eecfeb68b8a88d5c12d28c7f42bc1692c7a2a1544f0eb144118",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "6fd41e1b5702520b811b381e6a2c915cd1c91b90319d1e5f00128ccc8585199b",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 1,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "afa75028b2e13ef186ee74e8321dcf58e7412cd8e40f812583284c5ca09b1762",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 1,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "ce848206b68d690e47f94ac4308d6d537f45eaf44f1dd686d4736993ec601066",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "7e7821b4e80d8af19e6f0a3e29f6ba251d62abc5542781c74a3163f96a733bc2",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "f0a4af6c292e6e8f198f54782d735a0821a6529c72db31a044fb5cf8e065a9a9",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "d278c05be25daa875bfcebdce60598b12f3a649f38f35fd384e6a5e485e19164",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "7e2ac3692028ce5a9b26ee95d92a0cb15251425557d31d675cd60e3fab10be1a",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "94571931bd875fa9fe43849022eb32df3699d3a47b1d7c48f2e8f67bed562d5e",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "92ccbe517cca78f1326918eb853c7487a345431830d96811e34f81582f2b0050",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "70ea72042578643bc61ce4740506b2a2edd823d92b70cd67cec9b2e8207b02f7",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "466824fe8033f39bd62f03db6665a376cfd476c5042eae7bbdd72f9c8c3f205c",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "61b908e4f98cc45ced0681ef8928bb3d838cc472be0f9c116ca5ef4258f2e2f6",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "ca71b73928bfcd1c9c098d1d6761745c1b54f548325763ebbd56fd14af7690ab",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "762dfd7692f6bdd845d5b7d03c96371158c0bdabed29497ce80b1807e6c39c6f",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "9f728ceac505ed7a6ee66fc1e3fe634aef1d0be0d687f14642f406ee2163f7c8",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "2bd900200e5c7a28bb357cdd7daeee71fb445af1ced476b86568417419728864",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "7968e4949626cc9f4bcb3882366c1b9355bd8cfd6bc116f7bc64561264ffb45f",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "0add6941994a96732d4ab04b91ecd532b595ef70037e2a2e28b5ba69bdaa17ad",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "a08b30be351de66969f2f0a7fcf3abfc94afa399c1d0359b0271f7f8680a62e9",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "058581cbd27229a2b3da4d32adccab7579cc0d12d9aa543ab837d9d25541252e",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "8b47783aca988816d66d680634fda6f4cf6471e0559d38e2527cfa2898d5b1f7",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "ce174eae5d994424ca536a4a07d3b4ce21e73d2e50fc8b36e0500f7e649d7991",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "127314242c512a385aa7220d41bffac60aac12916c417d6f0e5121161d561059",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "7d3959ca5a9917974e140de3a7a951eb541bb5168e2c296ce67c73e3195ec927",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "d325adb166467cb6510d823d4ba518d8190b9854c0ea1ddcee0feda0b7b87a9a",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "88dbc36ba5a8129b3b5f5b873f8f9f8783f19c6b055f97b8ccedd7f9134a6905",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "26995f1be7ba14658ce1c155bb3ab047b2f142b35254aedbfea7af02acc31deb",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "18fd607ee9fb899387987f9da7eb2a764f05a15e43e2a1a997d1bc6daca0a501",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "1da09eeb4d54d89e78bb9bdf4bbd2e3f1d1e4d20f6da7a28d89ea439ad75aef3",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "5ee3110524caca4158c42dd2e1226ff54534d151e0eafe401ef4d212e12a2385",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 2,
+    "small_tp": 2
+  },
+  {
+    "image_sha256": "2787de657b6beb20c6f5ccd8ecdee4809f274931e871b9eb1e3249f08b555aa8",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "a8e46e6a48191c04c33206a8ac2fc38f3875dba712676cb28cbd492f07e6ed36",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "17e02ac27f4a26acaf9695f69b86a6f00f27a5ebd0d7d6260159b089dac932fe",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "67a7d01eb67ec2bc95ab428c0268e04aeb5dbfa6622e77b796f6331880d08a79",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "d9a807ef25ad9923866d434ed8077757631ba275f0e5e7ebf7279addbd30fd95",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "b25c5c3127c74ab3e63a83128c454d18f731898dd25397cd8b1eea18b37d0998",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "99f6fafa86594f6e204d7e3fa61b66e6e2c27fe539d048f607b4e4b19bf90cb4",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "270500400b56a8eaf71895ac7756d012987583fd2c71242b2bc321bb3b5ef76d",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "88dd0517fdb8a8751c37f6dd7f0c537eb365f7a789e10953aca4c0f24c925401",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "ae91cb7a98eeb91a7f01b4678eb1c5fd2423680f92ae89cfa3b9ca3e4c2d7474",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 1,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "072f31adbc99e3ee4340ef01c5f0cd3c36aca27af0cafb83eaaffb9434f132c3",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "02d1d37f520fd7d05075c848095c0bc29ed0ac058b8f96fa344b53a7c0bd9cc2",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "3bb284861b7c32b4ff2b71fed1f207bf88b338a1c20535204d144f3058c1f14a",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "22329e45e7fda4e67698f5ffffa0fc76ab5de4ff0194923666f673773533bf10",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "b697d429174130ac8cfa4d577e414413e3cdda9ddfe511afe15f1e5d5b018ab1",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "d5b2988098a78d27e0cc2a31719a0a73ac938ea2e9a5dc99082744780e892c23",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "3e2d541d6233b10d593069595a6e941bd89586929c39d88b8c48aaef109602d8",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "e280df508386dfeb7a5475e1585180842c72d7d566190b0838349a971728a198",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "11fd40006a2eb4ded805f9f52084185264647372a2d616a27b698a8de9722dda",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "53c90994fe2407ef9e5eb0dcd4bfbb52e302f41f495086362b727de7cb05d297",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 1,
+    "small_gt": 1,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "5d2523c984376f0837d91504c34fb0ad32e976e306b3a28457c5fd7ca30bdf1e",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "782dc19549d0a337db8a607e10243ab1bfce31482d879dd58c8526a0c2980f74",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "0789a48319ddfa00682a780483eaf7d861d8fd387e3576db7a00366ade06df5b",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "7bbdf24d461e8c5932127f2ff32fa736898f1e74a9341e809a78fce3f530e5f0",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "small_gt": 1,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "2a1054584f9551129b9895b0f82ddf4ceb561b1f2e87eb7a012ae64e7e72f512",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "5c5a17f06e8be16f6c3a9d72b98d89823d818cfaf6c368759118e435c003d1ce",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 1,
+    "small_gt": 2,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "8911555b218db3dcaae6da7818fbd834098cb1d853dd431036131ad84bfb9afa",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "204738562956fcdfd7d342568c1e86a5b48083cbb4a92c77890da5b794c82831",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "4fb1292b8f6c047db64f1387b2fe64efb254718436e8b1791d4ff813c0da3fc5",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "e1f11e33a53e25e9a81cc2dd3ee42537e0006ce7f68e3b58097fc19351d2bcb2",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "1e7d3aa257a13f4db1392ec470c4734c9dffca97845c98962ef429b1101c70aa",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "6a3b0504633512e52ddd284b55a745e04ee91f5b35f2a479a66212dde112faea",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "9cbe177b9b4b63363a6b1b01cf64f78638ff02e78949a0ea63e409113842b824",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "239f6bc86de4ed0e60a4094eab14412829005da15185bfe82fadd7346e92c8e4",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 1,
+    "small_gt": 1,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "f79fcc32f1776686d3ef2522e61e31b29bdba1613ca1f6f3689a3d6cad605708",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "f372a619185c8f1c1c1d8f1ee66f6ddba426475697f22037a3361d1ed7a58ff7",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "1a23b54ad8bd851c275199e452887c0a91ff6a3d5f7e904d6cec30eeb6290709",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "e5c683785ead47fb90dfc76b963f8c65137986fe4951f9682ff7fd31a894fa25",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "26fb641c551743b0faef014064a51a86a5e2c3a5529c041b8c60fa3b2124eaab",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "17bef6ae452c4f434ba68c30b37adb497c7b782a70193a637ea75317cad8591a",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 1,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "9de0d414cc281721ea75b1e198afa858c1786149b2943bbd9bece6e28f915e88",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "8e0f1309b07ab39fb59a43d31413e3d8b0941522d6d21062233e455e69a305d9",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "8ae948ce84ced06215b5a9be8a5e1773b58d7fbbeccaf065448c278f41077be3",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "ccf82559237c7d6c856ccd24122ba2fddec04be1cc6e75c8f4e901c1fe900c73",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "dde020cc85fe5c5302fe47d946df986d461381098eb8808c85d8219bb7b5869f",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "11ab75edb4820296e61429445e3cf4cddacc026bccf659db6ae7cb39d03a7f89",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "bb998f54f56926506ff7d84cc2b20e05f715de0c65c0b293910648b8b54b1318",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 1,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "7e621bd3ff3b6bd737e7f64c36b161e96c75213965427dc2820dd4a80b6a1dba",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "72b7ee53af2438f38b8cf4b0044782047a22de6789a2da99be20fa21467b08a7",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "d72f5f5863a3a25f96a748e8e05a376d75b1cea75095df8eb7f79ded833a38ce",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "1fd82f1e81dfa24007161194f33d79ba3a6fef2e918bea512af0bb9a825d0e01",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "9e43d7903685bc56fefd51594dbc71a170816b3110dc338e6454097dc79e0b27",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "5ac14b7b4db8a93a52130b2651cfdc88988ec72e7c6e74530b3fc8e24e7840d8",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "5b79ae0980a395f6cd6e7409c162790d6c4aeb839634f8254081fab252b670e6",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "d0161ce738b12250d5e650c2db3f2f1bf3122a693d0329edbf9cc6a6e223a54f",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "a3e0a73a7a25a89b71f35758eefab61c7b4124647cbeac52c3e99da92f259164",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "e2b8a8c0c37273373b79db96867f246a09764f8e631a057f7e47eac65f4a067d",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "45c0ee5b38c39e5f272451fd4a1741db2681e4f756d6b2742f88e692a6bc2cb7",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "10dc16eb5c54391b2e0589603492c6eca6587939a5934e0c206623873d1c4932",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "5429746bd5e298210e1570d79c1ab82e288e446ff252a2efbc8d640834219083",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "9e6a92034747bc17521876775122d6c11600b7bf3b0c55a7b0357ab40edced3c",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "6b0a2ab7b9cc24efd2f4e63290d0178ebe4bab668f49a9fb4698fbd57669a730",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "9ed76cdaf6a3b49309fa1b0574c587cf5053a34f983df7281829289d2d9ee5f3",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "ec4dd7775f8a342f1897605c86268691652b3dd5e2816b916947e3fba09b63e8",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "e50ed7fc1482e7e4aff848d79ca1544ffc3879057947ca83fac6393d4b74cc31",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "65250c306caa8061268d793950f974033976c72ed9448f33132d56ad6b438a93",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "848a6deb566e2972a25ad19e3d0ff592693cdfe222a18b0373c6aa962312c196",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "d6bb48fd1d412450c9a9ec2237e1ce91ad266591ee54528231c3533155137c8e",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "6a78b187f3ccc58204c914cafda695000c413c53b0027bc61053794c5d87b38d",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 2,
+    "small_tp": 2
+  },
+  {
+    "image_sha256": "79daba54e67214a1202ce98f1ab2ebe234dcdd6f5c4cf3317c17d0cd43e705e3",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "e64985de8c8b792a2e118b8a48ab73fd1ac42de32e05e60e450128cc9125ba88",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "59c98c1707c98f9803048ad3dcd17eccac987f2fe73001bcb257a2ac6581ce06",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "10d157566174a8dbbd0d75294bb6bbb55f618b3331aef64b6675d125b2838083",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 2,
+    "small_tp": 2
+  },
+  {
+    "image_sha256": "b566d43d8493d7a2059f697d82e980757fd388bf872d7af607c97409edb2270f",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "2ffca55ed952ed4b3e0476ca65fd7bf6c79f06fd225f8459d0a0b853ef705e66",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 1,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "3c41fb0a04586abb93dc9f6439770b4ec5acb1a8d13300d7824a924070d66ff2",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "8e56c6287b668fd30d6658dbdd864f20fc1fd015f105f192cb72324ead2dfb60",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 2,
+    "small_tp": 2
+  },
+  {
+    "image_sha256": "bc527bd3d16e9ded4e31bb0386013b9652c4344c86c42b3379685d797baa1a04",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "d4b8f8baa3139831dcda8a677b08beae0fa4e62d5a247c6d16f1a44a6560ca1e",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "1b4b8665c1e3cabd78359c2a5f715542b7864f1401082b194d0dd7adbd9dae89",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "4080e0ae21ff7719f79d8d1bba4775e6dcd81469e4792332880f9eea53f57ed8",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "94d59c402d1971ea21a0e9059d7a847ce46492c7dde3a852d508f31cdc8c564d",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "a07d978aac0fa9fda73cc814c34a168f46ca73faa6ae66bd517217c3310cd0a6",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "b78092f87f739e89b61f91a42b7dc9f2ed66f7dbf8108d712d137ab09a15667c",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "3d49de2b59cba21b5875e0679909a8d8ec3963859fe4b3c78511bdc5af619ce3",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "5f85c8e747a371bbe8c50257507eb6dae55ab7d3ad9a5b59134f4ed6ef9fa94d",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "576eab14199b0efd3dcb079e26599eed58d6da6d3d6c5bf0e7f9ac8de67c09fc",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "993d30e348800e0076ee58a0caafebb9e3db01ee8a336f166bfaea2a049a9488",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "3cd12f0e98d25a061537241e1ab68724a0d0c9497f5acab7fdf91eed9d66714d",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 1,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "e9984ff8f5cd10247c908b53d6971be8b63b6e2ffd13c5a58ffb28cbf75c5991",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 2,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "74dbac27158790b7da7ab836af30cee521113f65993779890677f2203f2c2f95",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "878fa885044d42f9a7449e40691215b08524ba2a9322ca2b04bae1dae43d4c5b",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "b0f669836db6876eb8c1fe5c7c81b967e953159e663c7a5952ac3992a9ca2462",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "0d37e00230309107a810a894e17b1da34502d2b7cf1537727e1314bcd035cb67",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "163d1e0d5d123801b53cb86a508f2ee7849c6bfbdb7e85d85f72efb5c8f5a44c",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "d43059d1fcd3d241042144e01148f54a3101cfd2225cac744cf1354967af8069",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "8aa2692909193e2109a73025baf3e6fc40ad6912639139d8b0a308e27e2d9a91",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "f4c6c7d9a555f67307f0dd002af6ddbec8265b9c910c78e9a524e866806671bc",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "8204e24b9332bd51c40c3193db5aca1755af3706c321297bdbf095b8273f4cf9",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "70b558ed0f010aa27232cade309bc4d209d57d5eef06dd78e7142781c646b5f7",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "845c9306bae6e6b315ea5ad93a3763f31c68219bb083af87ba61e84c14cff6df",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "9d82ca989d9709763e9e3229e3a7a9eb36386c897fba487555bd52f1874304c1",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 1,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "687704124bec09d91680fbf18a0af2f7adde872b9fd28b0594ce4e5743ff3751",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "323bede2ea2eba6996a44ed8062e3fc62db8a7efd5f554920069d3e627933a94",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "332bc38a3fe7ed78d56bd508b980c6254fb87e7308f35e8209b26ede47bfc4d0",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "a33dcc992b17adc18e34a0c64f7abf0949c14f13cdb9e1f028bd509ca567c0ec",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "12400e8edacb0507ef12fdc7d155673201a911adec97964d04eb2cac5a6cbce7",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "8ee655349684e7c287f9c7c8eec5de6689cb0dfacc4c694383cacaf7b55a9e14",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 1,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "2b0ed7a7c7be2d17641d45465036ef0eb030315709b4d16f7d25de64960d2113",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "dccd694831e9812af9be1632bbe24d3620f63c1ce2a766ffe0fd71ba9f393c5b",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "5ee256add4d85b8c6c8740e5f580d337b6ebd2c335fcb8943dee703c13922ec2",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "9f579d6af51f5bc341634d82c5866b69b8cb3e7bb304eb43e89978f60112b528",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "8609c6881f24fbf624ee3cb24ba84fcd0cc2131437882a081b48ffe974031aef",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "0d1457858b51d830ae353b1059d4a7b1809bc116e1f917450072acb3920b4a4f",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "43275f96772225a536e73671a0127122c470cc9152f7b5ec77ff524b0b3ea13a",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "69cf1c30b120125e6bb0681ff033ceb66becd77ab3bf2ac8b198b366024452aa",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 1,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "89a22e04863276463023fb57e3533d9d0db3f40ea16c67a098148b740dabdaa0",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "5b0e6a4627eadb75dd2745210d140ce157f104a90f16e55885333c56abe93a0a",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "f765fe4b790c7b77e756443cbe57686a1d3e21e6383febcb7b06b8af7740e58f",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "2b3ec76daf36683621b9dfed4fd4456b40cc8158a67b107b7a58de1667dfb775",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "d2f23404656fbeaa40fb9ee43193157d4eac33c3a05cbf02a0088a0307aad2fe",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "702b56b0f6bc25505a6ca3a9b3ec772c72064900c77a458419f7b97403ffbb24",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 2,
+    "small_tp": 2
+  },
+  {
+    "image_sha256": "f98386c650e52978a726ec1d8d1cd3bc26426bf54d0b429e1cd621158fdc21d3",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "8ed6212d477bc5f8a0e5c33ad6c747d7c6ae81bbe4aac452f5a3d46b01a466bd",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "3512a1162b40d8cfecca18702da08d17e7d18fd05748b592dfb957050ba03e34",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "c2141dada52e05789b6ba236c4c1cfd2430ccf092f17b6cab5320554bfef235b",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "923f96c333e6b6118d76aa077b678ba77aabb36f86afef3f2bc6840efa3aff23",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 2,
+    "small_tp": 2
+  },
+  {
+    "image_sha256": "d239442cd4b53d6b95183258037c489cf61aa3aecb46feb241280ba3c4111181",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "720b812cec2dd9a44224f9eea212510e98e7d3f993478efc7fae5dc1b572bdc6",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "48a14ad9e7cceb19fc812230abb681670069372d86ff0eb44ef00c4648d3477e",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "8eeba1b0b7542132db4d1d2acbf2a1a6bee1bc6c986c53a45020fe9f35e8e8c0",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "db64d343d8d468d3bd23da1379a59c7ca2ae6b47cb471cf5822a0bf5c3867f29",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "12af50aea4bfdd07107e49b4e0c5770ffd459f0f5ed024de8c04172870ad7c7d",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "cb26144a2d8a2d3f48210dd451356af3223d0c08e8ead4d1124180454ca06f07",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "24c564e3badd84265a83b2fc5c1320bee8a29c2ab822c3045dece0738cb0e5ef",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "268c212cbb715fdf2a8e869f311e5ec9be1e869c20525ba16b9879e0e4dc6725",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "97f4fad3a859b9fa504d9c140647a398809d191fb28ad9a1c938faafa0c09c50",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "ca4739826be05e20e080b5aae08404ca148776de7dd02ce43b19eb0ed33fd17c",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "d728592d1295610252eec26cecbd888c18b1ed7f186c4f62bcc92ad767190188",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "5b2b30c0037c58ff3d03f924199f171a58fe57f8971547d6f147b1733947998e",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "b19765c25571f7d696d354cbb1869835e5b63570082980c25003bb0489657e3f",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "5f721c7a558e56bf027c6790ba0d5f699ec5982558493e60088ef9fbe5f51a93",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "69e3b758eb8cfc2cda52dbdf19060a08bb06c1efb14cea9e4aa5a0b035eb177f",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "87a2c2f5965bd57866f1facd2cf669186b9e7dae20213e305941a3e1485f52e3",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "3f0657978765f7faad39c89dc083dfc9d63df6d8570d0f8aac6b310b8022b769",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "19d9aadc9d5f28682fab4b62e4be116c99a20ae2fa17805984f0fb6c60d6f244",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "b07fd2f96e07fc2d737c75326132516d7a83fb9f911dca6c7981bd6907ecf090",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "fab64ec719cb524b73aacfc780f873d0ee5cc0b175b2ab70ea06684a63c8d013",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "9d608e50aae744c0642305085314d2b9151de10772cc4cd2514eafec2baa32f5",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "049ea82f233fdc91924c9222f7a9f0c27f9bed2da0610b4d230f1999c603d58b",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "38c1b707cb82ac1be439366ede80038f60953fe68c4fb9e9efd17ba7dc9719c1",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "13c7774aa7d9e7f69c2d0484284f2d1ce6facbf882aaa3ccb74f096850eba78d",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 2,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "6382a0258af5dd1aaf53c4c5ddc786c285f4e95fdbd5c488d2f6e955c0a17262",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "5f92e722e0b74038d45ac9c935dd88d312c116984b43f9956b5de4e5c53edada",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "fb5fd79b3315e25440641144bee0cc5cca23718d952606267ea951e53b45f93d",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "97d52e2758bf20fd0f9669999c4cf2fb9de2cd80d588ad0ca4099d658e86a151",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "2852bd99e00bf68ae6b7c6a965f1dcaeeb3067721d2d9b21670cfdaeafcf177d",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "a6b13120ad14b42950a92a096f68a84c9a7eb2a740530a75839fff1915473852",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "6107855663b2c8d91126e8cc8c646158311830bcfa8c168f8e361f21a78ef45b",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "bf281b4f20515d8c9b7177abc22ad54eba423cef02c3630893bd51fd2fa18ff1",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "aae70485eee6111d774980bd6bb68e4b79e67a2845d73cfee677a13323f2e3ae",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "74b06495d8b198486fd3c3eb9c25eb918d72735ffb126ba7b7e9d1752657fe42",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "bc16ec8619c97d4f05c463f37a5adc860170b844c9ba520c6bc5f1ffc5197b75",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "82d2d36cc097407b706f8bb82d1dda05997105633e3b6d23c0446cbc6bb09160",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "9112bc3e0f5688702f8bf8c8f4cacc8426ad857142ee856bc67ebde0e1c1bb09",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "7d6105d49f6f572985266f626f42677e24486f18a27c11483715636b1e377490",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "1408c557ac88700cfadc5405966e5b29073a9d88412bea76025a4218367738ae",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "8cad8e4d426951ac83855947208204694a8fd69288a7966c907e079852e9e7a5",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "07cf76f55623e87e4f8fb66a4df697f864cd9cb3af58e12eae910519ed039a89",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 1,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "6eaa15dfe9dd79ab33a7987734b703f2e2469b5e0d8225ee9ee88d29ebd3802b",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "c85407d7aef8750150eac53de712861e70ff418a7c32b2556fcf9d3bd8831292",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "879f3eb83312041b216ab6de130b2d5e86422c132463b032b142c15a5b18ec0a",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "02c1e39c52e0167b43c49a8b52dc2b8e041d2e162a537bd82721198ca8735d92",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "5ee7a7a0d88a7954a510c3a958dc367ee46c9937022705308cbccc291baff54f",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "38ed8f7033d1423ab9b2a172e53811ea5e39b469a7b022d4a790970cf19001a6",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "97666d10b9e6c789fb1ca99fec16afd6ca368c1ccc85527903fd3cd03ae671f6",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "78606f1fed2d80847ef7a7d6ef96122406a2e4542cd153b0699647bd116da164",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "a6b6da2f53f853066480b8ca4659c92419a8c2842c890604b702f35294cd4c8e",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "cacdc75152063c8ca5f8cae29236f13f053542bc76924ce777e2788697506085",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "a11762cefc3f57b82215ba5ab421b50e77835f8c1d993fff3d70fe86e72a3991",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "3c93637d3f83c267a232eb1ac773b49a0b395aafffbf0cf28e8617f9d08bfdab",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "4d92e81a9ce834725043fd8baff99c71148654645fcea230c7f55c481adcb2e0",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "9d5a1a6ef96373aab88c65d5bf4065292a58fe2406c607338e10d44fb9be4871",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "322924ba13b3d398c3497f9c1e46a1e12f429d1bd5c4942499b3929ea28ca185",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "6d6231f7a853e6c47cd46bb2e3df06d394201c0bdaa3f80b05606ab8f3f733cb",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "0a5c8a80315af5bfde31571ec7c5c60bf71665e6ffaf132340040764caaf7bae",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "60bf14fe359a7ea8df39fa3956a183d6f7fe6377a65a72bcf68257d749e78f45",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "2542674ad220a8539c9cd1cddc7f0a9476958d15e6c2efcc7dac3b8b5a81758f",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "d6e56cb76d087bc7249712782ac22ad514daf76da6cfb21631df99293307f204",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "e28f2be1619990ef0dd750d4bf5fa09f1713b1b4346c6a3c2965affde7fcd7ae",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "d64847c5b6ba72c5615cbdef1897abac6a1110ce78783fb1d60ec662e65fba78",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "4107113da0c99133d61d164c76201c33b1e0358a206cf0f64e2cc60d4e4e4465",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "4d1b6872c1deb7326b83b663d08dc10557bc1d0ed822b5088b1570c7b138dfae",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "0d929bb973e093ad2d112bad114309bea29c389e5f7f1b2fff82d3bff163dd91",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "20d835482c7ab9ed86f1b1bedf100bf1314c106059e6f8123a8c063a82b2d756",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "e33da10d959049e1109036bf7bc4c60ac9d81c2838df2dc20902cdefa734df3d",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "238eda676ae024579cd78c3c5088624629b2e988e4306d1e6014d5ead733fc89",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "41b4f3ba44992d073fc0ecbfe7811a0cf96e6f7fb4b6fab63a1da9a5c59487bf",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "31a819723fffe16d3501b9ceb95347299faea818fb8ba92bc65956fd2b771231",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "0db4e5dba2e62be8d6f51e86c3746fe9119bb03f7e02990593293094a5d4c677",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "2e938ba0ecdcab3dbd9e7c2077d51000734f14d739e40483fbd10fab48507e4a",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 2,
+    "small_tp": 2
+  },
+  {
+    "image_sha256": "3edddf6d9841a504433e8b87237a7738db6ee220742c42a256f6c9c77b9bbd49",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "1b62d47a92d39bc50bff3cfef4696d3848b27e9152066ddb4486ec9b44578165",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "8cc736aac445b3e5aac911ac25cee9d5453ad950032fef84a6b2759a35ac14c1",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 2,
+    "small_tp": 2
+  },
+  {
+    "image_sha256": "4d116e6810f641dc201bbfbc6efaa64681580fe66d4129288e1d5aa3957d5174",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "c77e7eb41657ad4fe1524c35740091204740f692a7e6bfa9f87e8f4da00c4811",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "a0818ea2f4b96a3685d0fb8ed975ae6a8f2bfdae1dd85d6bfd8840c82ce7cba1",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "a63ba56f4e318f0a4f1dbe0d015ddfdc3eb473d8c743770d4d8976df839e8745",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "ccb835458fac8fb918e6e5d262d71408793ce7752b2170726b9bfa7ce5f15259",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 2,
+    "small_tp": 2
+  },
+  {
+    "image_sha256": "475c3fe000667847248937a625ecea9d5a271b263cef6aeb39124c08c01dc2d7",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "b2d7d44d7307922693a543b35fa86ac07524c0b70c1da747c1d91d8576334e4c",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "dba0c322b6b6e99ed50376c316d24d368c718ea2b3e9ff239cff9bb9ebaf18d8",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "113e440667101d8f3cc439ec162ec3982d9a46a4877664573db66445940f5f5a",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "42c64fc27d2674027f160b9b53bc97fe99590885ec598e5fff6c5532f94dc1e4",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 2,
+    "small_tp": 2
+  },
+  {
+    "image_sha256": "033a70f0deadcd9acfa2c7f8d7590e8d75d60a33db0a2045f3cde791036542b9",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "fbc062511338339a5e047141f17d665bd638bedbd1a09727973f7728de8095b9",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "374b7b48b25f1bd5cb75faf89ffb8767a98ea583788fedc4821d03f06fb7a5c6",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "da3fc03b10b337c7b20b091599488552b23f88a10079539382f30cbfe2a85cb9",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "2f245f06579b0e8ee5641c66a6fa182447d2cccde21b645d73d180c40526e16a",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "64ac6b3fc6489aafb1c404616452bd21bc1da0b9b403414cf9003f640c959eea",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "4b789b8e8c179675df27bd8c9fc16edf700d4da74eb98bf2bb55524cf5757d7f",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "f7319123bdf156f33049ccf3676e6a49b464bd25579f4e339289e41248a77e59",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "6425b6986530870f911d5088afe9d7e74d74c40895f3a8e2fbbd7053e64dc06e",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "ad25a0834c2c17b94e967ca208df116b61ce520201ee500079e61e45f53f6935",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "e75c4e29e27d8a51b6753b96087edf920e3b3fa54cba9b07185d1829ac37051b",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "4bb2caf0b0fa79e1503c17f24a90abdd1608892dc7233f696040a618b4be0285",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "b9e6977cdbe0afa7643e03de558f321dc55adefd10795394cb1e1ea29a7370ad",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 2,
+    "small_tp": 2
+  },
+  {
+    "image_sha256": "8c81f9a58906563f86f74dee713415b01ff556bedeb4e06a11167d5f493616f8",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "75af1afa27effea76f351c5f391611daf4ca4497b06f9a6dc2de34fff141597a",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "6bcb009e686c9f70564e4fe95b9103fbd9f6b409ce819e941e21f4abe45504d7",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "98534a8debf822a19c7ddf97a120afbc6cbc1d10ba912b535ac7565736414ffd",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 1,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "822b608752dad290a4e351c09166efd5a8380d0738a7e0f559a8d15ba50c32b0",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "277947d232bde150a9751f593cceb84e99be62c26dfd30431beb394207cb8ce3",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "01297c68a825fbbd3283ba2d89b1a7d1249e53775d6cb4c6ca775a18b2ad4322",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "7092bf014491357af577524ddeac3a1e553163acec6480387d1d7ee37b230820",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "4a8b2b7afe55f424f06f6db6d6023df761e5027633f4547e0e0eeafece78656d",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "e5a7f041c63c7b51974891264689ef2a9d59aa286ccd9dad759b36273d101da4",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "37ce32d96c1f9c93b78d81014f6749b55ad5e0146a3fbe8645dc85351f85cd2f",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "4578bd044494eb9507852e716380ed71070eda1295f78eeeaaef87b8646890b9",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "c441dbf710059b0ed5ab3ef226e8b74f03d0f842e2102733e68179d543c8174d",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "32eae4e8aea553effae8e63ec647631472e69e6ede624b68dc9ffdb8a7bb9622",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "76532b7b9573e4ad387fe9caff501f8eab894b448937fa35b99a7f49c229829d",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "6b6113b8b7299133b7d391956fd7e285b5600fa826b3f1b91a64dd9edd6b70a9",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "2241fe038e177506fac95a0adf88537ec3b36d0745915232e4393ab5143252de",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 0,
+    "fp": 1,
+    "fn": 1,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "1782ae4519b68933dfaeac298572c1b93d5904e1b7863d7c19ebb8f79fc20b15",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "46ecc3fc4bb3967408123594c7aa34cf1d8a75b0dac1a3c5459ca56e72183bdc",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "ef3be538e95b0c62fb819ef25ebb12f815086caa94690e70d1e6bf712aa737ef",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "6e62b130de1dfdf4020aaaf8118a31dd9930fde3d505eeff77b4789ce302ee65",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "a01f59c5cd7685ca5795eeac6b721379f1b603eeeb54e04968c8844cd76bf321",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "bf454ca19a0e06a4987df04a8844423ec6fa7794578a8d6ea65d750a519aaadd",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "4efc928f411dc5a8406ba3e526341cc960e5a2ef1fc37186a83048e9a6576ef7",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "340804b8dd0494010cc77ed4820f4baec7f3137517b1919f726b0da2bb225a23",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "f2d61110e4cfbefeedc8f59edb04534dc03132b00d4f5bea3114249527e4b7d8",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "5523aa5bf6fc1d56bf20096d7f8f5013d02d6f2ccc6019ba3ce986fb43fc8db3",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "2fccb6814b551c6c42d35faa33dbea512c4a51c7768ae75796851a0341d77810",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "bfd17365b10d7700f779ff45f2a1d365b39b3b76250ef212a781a99ec17fecdc",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "ad40dba185c0b7cd80db9a06befeb1ca596d99341fb66ae5f81fc777edc16d26",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "28bb5b6523bf66cdb525edf0f378c4bffe29fb623a908964c6b525a3cc3d9e36",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "c485377924830e01026a443acdfb3eb653fb17d8f14f25b717c0b85d3d4ae448",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "726550779ff75ad1d697d3c652d50819da791f652116f68709bd4f139a63fc8e",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "3dad9ac3713f171f4b0a9f93c57beaad57a028f6505869c5333f187d52766f5a",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "4e7d77a7a100c037301ec4023db44aa301d74f63dfad77ee6f9ec7a91624eb6f",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 1,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "ebe0a790c07bd2b7c263e35f44b3534b43bec6a9ee3b97165bafa64d5076ef8f",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "da0b3f7d65bdc6492e7792f323a05929f68dbc8f93c611dd29da18186518b1cd",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "f56ddf07cf2de8d90ccb1eca0e41493e7cb95e758b25a732ae5efff957896691",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "d04fbcb6dc99ed6578d48a5f2a61f1c68ce5df2c98d09063a3270dd6147e5a75",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "d9a847d3a5b69864777a9a3fb9c6e55fdc872f19d4da48c87df447b5cd3048fc",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "31a1807920f609f5297df66b0d50ebb6356a7ecfb68d8fc8f35e1776204a1fc8",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "2069e1ca77637bcc7574f511465ea10cbfb44b825ce6a117cc048b990c6341b9",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "b66d18ce84ff7947752d027f2945f0111acad7029ae94a27dfc8832ab2352655",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 1,
+    "small_gt": 2,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "d31a41e39fbf534d052348421368eecb92c0f688a19730307a2eca4a28dd4e02",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "96929399dd464cb80fd0b326ce38c0fb24f8972f3588e55d5ad5436599f88d37",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "049886e103bb81bfa407e999079078c99a19e05eeca3baf54e384e83011bec1d",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "0e3bc12a60c6b8085cadee66dd21e7f389169682abcb807af77503ba5b169f5e",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "7d34cc259836a3d67ad8e3fb64e717fabc28808054372edaf33395746f3f3816",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "96109bdfeb1bdcaa0866c5b51032fd9b648b411111e8e7584830c14de26f170e",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "a38cb68b6cbe9d2df83e569233d69d8bfd225b4fac6afb835dc9e9e7ea3f50fd",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "c1a6d73f69066fa085b954af911877a6b09025a9fbd49244dd05734c4f2f6d37",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "eb5fd538db9c193c9bb3e53042c08e3d684b9a729700b5ca963949a26cf0e8e5",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "19823e7bbf7cd437d2a1a7fe33e68e618fbe80a17dc07923efed179d1f5a7dcb",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "e1d86ca23c30f97eec91689c660820c607b406b0c12a08a9a74403bcf64e4a28",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "29218b0cde2fc8122963f0648982085f69b728761b24a91e84bd5d1a83e2af51",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "ab9c2c781b702c9478c06eb71d990426a93bfb3bcca057c5699d7ea9e2916ee2",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "baf6cdfaa41eec2878dfb96f8ddb33ee27a8370d3d2a6738d5d7bfe48f0ec965",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "f2180fa63cb44069af60f3e4c0b26a38cfc305217ec499cf225a9103d9758164",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "ce78a797f6719c0afe3a0f464251bfbfcbdc7180364eb2756ea28bd3f1d933c6",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "7eec91720355fdc779a9657e3248f2f7b7b5a91bfce703481a6c78b44d2e2569",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "ec8b924c81e61e34b53e66dc0bd067a9033df8bb1c00ee473540d4cdd015fd78",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "31de2c54dc9fe75346828dc55e464053c6d9dab1d5f1242fb8c4e787da9eb17a",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "2ca95a975bbec34a500559db5832471423e7dae85b4ea4226c5a2f6a4f096cd6",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "845a3faa0510b4b14c66f1b9f70281a4c0c74982af667dddd7b44ab716efbcd0",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "024abf594722b62c38328fd67212f8baa201587b6a5f26b75ccd682170a3fd5f",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 2,
+    "small_tp": 2
+  },
+  {
+    "image_sha256": "1256ff385d35b5e2cb97c26cdd30d559d858cf1b6e7868957688ed5bf8d97b47",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "9a5947603044131d20ffb84b6c4106b1623ccdf05b0503b4d7256b0800e3d5a4",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 2,
+    "small_tp": 2
+  },
+  {
+    "image_sha256": "0b5d8691885581413d203a23951831ec8841f44aef8d5b83e0db5bfcc178b294",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "481f2c947f3b8b399d514b6655a913ecf5a9bdb3d88a9c9696122f78ee19d04a",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 1,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "7e7c87803fc122d753cec22344efa4692cb63c8bb4ea095fbf3d9dd0bf1c2045",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "174025c194e284dceebf527e505b5e1bfeb1aafbc20f58248252ee50ed630162",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "3d80d31ef48b7722e5375dab6c62548df685fd6fd5b0663d4dc939c0d1b3aad9",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "e54802a8ecd93b72a881542dc7647c9613f637f1b4b07b8320bacc34e5b13f48",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "4b228fed81db3c477f67c7aca76d52e62db9d7bcac2134ab918507f367044895",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "4a69bec6155b491d49484460c0f7c1dc372f8b3f5a166088ddb09a710adbe418",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "d875ae25dbd92b7d901f0121b1384a153e8905d651b8ffb522cc7c8c52cee3b2",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 2,
+    "small_tp": 2
+  },
+  {
+    "image_sha256": "a045b74593d630890db56ab38829d9c6af0e81e9b5b2cce880d610cf9cb9cd8f",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "92d3a16f65f4a7d48647ae5c817626179b7bbb8e758b8681ffd3f142e5febe3f",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "6b2882ba9a176e7c0e4755b20ca8c2b2787adacdc13d82b0145be4e3202655ac",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "bc0ad9b7b0803b4f47218bf1816b47d9067d6351b2d8567d9f0470159b22abc3",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "34a337390af2bedc94bcb63569db241b3aa01914a321c4db3961597aa4047b7f",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "b92c55a4e31dd3a1d2871a9ffb6807493ca205dddcfc276527193ea8fa6a415c",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "be94b219e61979be93a949835ce323867bbbb87e5e78e049fdfbb9dd84f90a5b",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "be9df07d9f028a9a1abc555c5184621608733d2fb9df2365bf54feac032952aa",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "ccc369260292140e94fd35c1e33326ff72498c2aa94b580c74f9cbc7c6d0bda2",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "5bf66c4ca5e81910f721bc62faccf4edf171eff15a3fef9ffbb35a1bfa271697",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "cb7e3342682605234523bdce17e096a618d00a19e3b04093a0ab799f4d8a1637",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "c7fe7d2b664adea0f95367973b46d10c69ec295f8310978b2dc989dbd30767d2",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "c8c47edd83d98c9f8c661bc2e35c5e509169ee9d22e5f6e5d5f765157e1f97ad",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "92d89734b47388dfc6eac83ef9d0ef432881326ab8d10a80fd6408820c3dcce0",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "b0d6a09382ec80099fd067ad9dd77090d90be285cf71243ebc389ae88dce98b2",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "23e9895c1d4bbb6041a62395351d7aea140b0971cc1f3c59b36e1af67b8a6ada",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "ebd7f5894482f522730d0d8b47b3ac2c37fb5d6c15f4770b7445bff81f54093b",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "1c5c3b805209035b2f0de2226788fec049ee747f10073f36853ea45d7ea921bd",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "d33205e970cc9e931a8171a394203495dd2a190dc451555dfcdb7ea4cbef78b2",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 1,
+    "small_gt": 2,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "e70d1078f04a44f5f9914cda68a430afca3f50912c7fa9abfbba2f959c2ebea4",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "5771ebc91a701b5a2b6c5fc61f274c720e16231e6babdbc7d0b3e16d4eb6ad8f",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "fe61ff9a7bf81ef8cea7eb9cc4b79a649a155617128a04e486c992af9de93193",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "33393692dec8185f7bab5f89491a265a2acd116d849408a610c7070266ff3476",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "4b5133771dcecd1cdc9f2dea6cabfcdf669cbb73e42ef736f78d46a6b1c712d5",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "d96406484b94de6d3daaa05a9874695c7fd0263806016f9c8cddd7d5096ec24e",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "c024d0386b15baabbbe1701780d564c42f100b0e9ad646a936762bcb54d9480a",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "28322466da24ebd64b1cad80b53a9ef32547fa90bb0e3bda247fb8cebcb8e0c5",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "70df670c4a4b557c809697329e7bfa9a2e8a8a584e34d7586683950a71c8b408",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "fd6931be2ba5b10a2e581f8b3ad2bd68c68b5704a8126314ad14deb76cf539d6",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "406f8c981d2659e6f5edc2bd6ceefb2003928107be966ca4d1ea15baf4f0a13b",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "407b367544e5ce82f73b86e1ac82e599c9d38c469cd49d56bbee02e925181399",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "a344a126b88f0a02df73d625803605a4ae4dafc89b5cb54f1806ccf71ed727a8",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 2,
+    "small_tp": 2
+  },
+  {
+    "image_sha256": "c034792f7fbd6dd79c994e35acfac2f3bac7bc5b33a06f8c78011356f8bdf2b4",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "d61295d14d2910b0e4d4d6f371678f8ddaafa6ce3d3d66883935871ca049cbd5",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "af45994a6cae6276bd872aa70cad9e3a843f9f6ddea75d377af409957613a812",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "4079ba7e99c886e117cdeb4aafdd59a216d7950655de965f6181966555915c10",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "bb1abfbbf16789533f594a0b75ff6baa83205393a8f0ccba0fa8b471cbab8114",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "98ff64383e349aae334da0125d31996c23f848938bc9825c2995f70b3e2dfcac",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "68429bfb792670e8436b1f738fcd45ad0bae4cef9fe8dc07e55dcb7b18ae4d36",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "d7b94201d564259231fddfb802e0a657e3677f214de4d3f2c0ad709f7d6d394c",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "0d320804d7769d45850e641ee5422b5a5e60facd01147074c3ffedb20d75d5b6",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "7a5d43c102c00450cf30f405c058d22f4637b9d71d62d6f3e794e048547f3f01",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "d4f6e491620edf1daf8f1fd24612d4c32990a0f0e9201308ccea7786353dedc0",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "05b353d65c088c9ced92a13be61e07e9d58f9b2f3849ebb017874b40d449c576",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "d313cbc2ed1a46725c3c5615ab09adb67ccec7918dacfead08410cbcd57e0e68",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "d303bf0bfd819cf70bc1fcc73b1e518b22802fc6634229f38c2f02d9c06ce0e5",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "7c1faf94de09289e9640e4950d41cc6d655e56cca641222f31092281996c6d79",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "72efc6786e89976a39ec94cb5a886a3c766d58dd282133c39449203e7abb7815",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "98f7f946b9f75d527d491d0b8d9d2a6a3c072c663952cf9e3c1fa77ee8b830fa",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "5293dca130df07b4f7b6baeac6b9b2bf0c00e174b42f57c3f1848829dd8e5c12",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "88a85d82b980fb1bb641093137aaf052296d496fedf76a4b1e197c207b884334",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "80c4d798441c867272d0989cd7cc051928ab7f2f64e65cb3fad6cf3e6dd653fd",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "a8d89f1c6f0666484797e8c1b963f6add17aca7145f95fb3c0068e2a3f47f2ba",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "46c1ac58b7c985d628bcac73eeac2a65b8e0169a53613e5a234e42cdc80ba60e",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "dfb03ccf34ae25d7cf88019907e7bd0bf908d56e813c1aaf0300f764d5889dc0",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 1,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "2b35e59a9e2c79cb22681d9378041e09b204431d087f3c04b6ecf9bde0b938e3",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "48968205d992634d9185856dde36fca500de5601f59800f4109a323927da6821",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "e0375688e299105617d36caf3550e3df44b866b2e1a55463d739d9f48c377808",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "a031589d11c0539942d6ba6c5fa7e1bb5b12c45c43383269336d18f3038cef21",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "bb9e4ee9e0086180dbc540d407ae3fdebb97bc819aa4790bd21a71ec3cddd1ad",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "90308a4a5085efe801bf681fdb592e39d722be8844c2ee031347a6fef898c94c",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "7149cd6e6c9c382c0b2ba51cd8fccd109e5fbcfaaf3a015bd1933cc559f2d4a4",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "a126c1f202953ec8a9a448378b3b35a4551e1848eabb93d837201f6ab65cec8a",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "56657f9300c78489e4b23161c03b8ae4aa828770782ee05424b99bf25f489574",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "4fa8a346e23b6a3b9c06f70e4abae2a639096665d041acb1b33599334e53b464",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "352e204aa1c1042a82ae2fb16960d3678978f6877fa43294cc96563e04c48055",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 1,
+    "small_gt": 3,
+    "small_tp": 2
+  },
+  {
+    "image_sha256": "40d67577d50e6d79c4fe7925649d50674e3ee61ea672ec4ba01404f8d2a5375a",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "3a179f9af8bc262445f6fde5f731dd9cd0a351e9b23856c4081f1d701d9ea0d6",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "6215ba1859489e66bf45be84dc638548fc5b34d06d1d9b6dfe0e06e7fbe6ced3",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "9ad4fbb91c1d29c6bf8ee1cae099011460fe177904b281ead1d50d9bc5459cf1",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "7e292a1d7b892f576be42ba7f32389937ee80e1c1bc5537f13b1ae0eda2f972f",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "93adbec86d0cf3f1f59bd1977eea7eec1700a86988386f82b2df885aa007ec9c",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "ea8580e602bce3acc342132001d7ef7018fe01175d3f6268fbccadea8ddb9f93",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "75460ca2618abce6a46271e0dfad05075f1d2cf0d1a03ac6aade84daf9ae09bd",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "bb51d2f27cdfe4cc4af7711a0450a98da82417ef55f2efe67472d65be7f87761",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "4ca5c7139809a32bcd9b900e82b6a17a902fef3b1c9fc56468fff5ec2ef00825",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "e50469c0cd1c3d4a3af527beb38733da366a07c7c07b8ad4ae2ada36c1c17482",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "b59f4dd0413b229eac170ffcca3e1ccfc5e4a4d5941bcac3772bb07f8ecfa042",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "9706ddc54c1fcaf47d697daaf9bc586eec34e30e144ee8b110d54cfaf4b14a1b",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "043e6d78475dfe6169897867c69368c6bce5c86b930b0a86dc7de60496372641",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "630ea29242381cc7619b2276d04658ad2a6fd355cf3a5fc0ae87ac3d096dee86",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "e765deab6f165e495938a1c8e5ba08fe27781c7b647080fdc33ac90f832f9e9f",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "b23b7baeddb03194c83bfb20cb3b7e8ce084077c3391639eeb1a6169aa92c289",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "f5867c607b32d199bb13982c004bd14853d244bec6e3c9da0c2f34e15c23c16b",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "eb022c541ab04938d162577491a246e5596f9889fc64a3a5751e4a54153e4067",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "4a5251f63c70e0f609e949332ed4c18cb07e2692ba11fc00bf3467a3e5e1fdb9",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "1c2e10a4ed8c1b4c8dcac3fd08a836503fc5fddc5de46c02e85e8416088a4e3a",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "e26c8c4a443077bec4264e1731ea00a550e683cbbe4d69ad9cc24da364c04e92",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "4150a3e49947ca6b611c1543b20bfbf99f4c42026d31a18041447626c39c7b90",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "2e8e04c10ee28b12fb5ada77153a68ce02c6d1868adacb2411610bbb7489bae3",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "f824eb61cc03fb7b996a595fc5718c101b34938b3d2f248641059ef51be99784",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "5e3e308d11502fbf20fa61edacf53248a819bae67860bccb36aaceda451477cd",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "312db5dafbf6feb57523eab80cdbd641bcbe49e55991aeed7023b68c830129d0",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "db1767b68ec5982ad567c23fc2e84068224616a0713e562cc67b5e545f16f9b8",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "88a03418c90e7b4ca08affdfbf9a600b1b25c0823e6d0ee984a019a23edb465c",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "e20eead0b00a7305aaa0029ad00842fadcc48352862d5d496a7a2e3b9193aedd",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "740d6bb95c9c22f7f5f82e93555ff0109819b3f9b2baa042113a9c9de65da433",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "56845401209a1640baba0c35916f9e92b6504559653fa817ccd5b05346cad127",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "cd1de08c8d8ec85db7d73fce88a31eb6dec7b64fca8bee8b2d035e727d283afb",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "47357f1439f8a1fb5e6d264472af2408d4f00ed9f833035b093d324d21ab491f",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "8e22d854e8bf08c6364111149aba943ed3f310e120f14e34c0876c23400d4e73",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 1,
+    "small_gt": 2,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "80ce93fe19b18dcf695e1a8e6c42e29de42d4f1554fc04bb23e9a14319f3ec07",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "71654086210e5ee55a7769d1e6c4b88046394325b040a728e46c5f48ae47a722",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "cee7a1fb6b4c70f5121b8fe46f0d5fe4cd238ce9e3a7909ed697356974648643",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "addcb0d975f645373acf1e47bf8db9938bcde91dee8207b25fc8cc42c9de5981",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 1,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "e0dbc4f8098c7f9804090dd67aeca6034a43a6bb4876f7ff7d0f33b16b67579e",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "6152425d6aef4ca37f97347e9d6a890c82046dba624dd9034b34b1ae3061b48e",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "a6d3822d17e7cd3891f3b98f62608cf173f4f48ff5cf3aa5c7fae53056416c5b",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 1,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "10a4752a764c825cc8872b7d41a71a81fcd18a2c3e8b6253557e6d520f14898d",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "5bba79c63b21867ab7a46d5f1ca1f913973c20efe484bd10e30669918cc5bfcb",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "c44acb5a9fe4bc31c46e0fbae05cbaba0657f898774c0ea9823d7c126d155941",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "25bd592855951892c4a3871498aa422dc4739811e2ccd45c8c4ae4ed94dc60e9",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 1,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "de8e2cd17620e9bcd36e5ca15c5ad99c104d060d118e67e9070c0c1f3e9ec1a2",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "c1b9ea9d498d1c9925dbfd3428fd942d2c950ec41940c3667a69848b71b8b0ec",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "8c557f650103eee1ab80553b8a940e296e493d7e49a3966c1bcb007cf6f8cd72",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "da581617171029c707d3c25ba0787a00531559a8e854ff994d3e9ce42a616878",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 1,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "0991927d6263136e0d54a51a1f0d7d53d743b3ee33fd3386db616b5698bb0a1d",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "2b594da0fd73bd335674fabce8dc5842ea4de9e3456c3f7c1e92f06a44bfe88b",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "c9db46717b3af1ff144cb357c867b58ee7ad0934f5cfedd9fc640346334a1277",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "45e20ad6138e3a15ac0ffbba389f6f1743036a326783e9c0113c51ae293bb1f5",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "5a114d7543df016d3f339b4f97c36309fbcec753d70d930d5f8eff8aef4e95f1",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "f59c2a57dea3323781194d0755500eaf6b23f3ea0644c4ce5725c43d7555d38f",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "f6d51978ded031472f193e5cdbaf71927099660ddfdb4ca8676f61a6acbb4a90",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "a97fd0c91c95c362f29513b915baf0c335b6c39ee1010f9e3959877f807b4f3b",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "8dec0d388e2e6d858155926884233d8c545dcf2c5675128e5c1daef0aea25e61",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "3e262119ee20331b778487acba195428710b41a9287572e3a1d653b275ec4dcb",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 1,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "299293f6923c2573977dcc81f4f612ff8d5edc8ff78b9355bee10cde4f2212c9",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "f0b533dae44b06aaa92034bb83195fcb47711425d461b9be118a0ed3d9904511",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "339d4b32c984043ef0b223b43001c3692b93c0b2ffad18af9eb5db9017953d9c",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "32427e75d2d4ad48937f6775803b1ee7de5825d8cabd4feb940c62cecf144bea",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "9ee36249342b73954bdbfc6ba6114f3c61287fcd3bd7de921194c8e428ae6e12",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 2,
+    "small_tp": 2
+  },
+  {
+    "image_sha256": "ffe3c12ace9eb33acaedb9fbff5d6c25dc7aeb08a515a5f229c680de1511504c",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "518fdc0c0745c4a3b5c188329ac1366902129ee253392d228f94195939bcf4e9",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "bc6fedc52515618137b3f3c433e3dc51f00f3f1a167c453545a6b573ef29d18f",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "78e21babdace4e21f6b6165429be2adb162997d545c80c389c881cb4cd41ed6d",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 1,
+    "small_gt": 2,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "856ad3ef71fb850ac1c4157b857f9d40ade490e550d67488586a3b8916788952",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "95030d0997e59612baf98336929b04a1d88db37d3a99dcf77661995d15e730cb",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "42693809179b780770a9564b37083d93ac61c373060e1aedff88aafb8dd945f7",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "3aa501074ef07cf39feb4436100a916214b49c7f3f7aeba5dac9743572079f66",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "5927f29ac67311a8a4a764a671c4e0af85e8a1c032310c47b1328b606bc41384",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "14709de10a37ed4d3531cee2b559e19ff841761e4540fde894c7a7b44cdac323",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "3db8f72fdc4014a8d61d2d8f8589ccd2c5cd7346547e1f50895a0631d370f38e",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "7bcc03c018e2238892845173ff839c4a581209ae7bf74d9540fa59491086e2d4",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "a8a1187d1354eb2b0b17ab20783a420f2e93f4f2d6b61ec2276df9e2e836fae7",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "7c8f773aa15708cb4dd7a93d053f5cd856cf442690cea6768585fcc212cfb0d0",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "164a649028751cbfa8443f4f463a6e444b168d770c9c5f54cb688eaa91d69010",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "c704d19fa4604596739655074123662e71b78c1239fd113e2a457ae608341a7e",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "cb0428e3c6c2cf9484d2ed286ee7f727251f0d98bf5e7e668dd21481f085fc9b",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "1512a3aac621202ed59153f829dbbdc95aaa3a903f523d6e0b56ab9bf841b1ac",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "8520c74df8a6c121a702747e83cd8079b139c4350deef42e3dbeb984312d7fc1",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "9b5ef48149a5e600248b7fbc6c9951231bbdeb35635561af80c87dd41319bd08",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "51619fe1dd168d293f003a86f9555234b8e057bbf4d515ff11631b288e4cde3e",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "3178f23f871bb08bb5de157f45129f2b7b0cdc0eea2148f3b6fd7461c442ca99",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "8c8f98848155be180d3be03cce178bf11273a8ca3c588a289e797f22226ed646",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "0a06a8fc1802c09471d5ef841e69f56e8ff418035a6d906a15e7f58f7480ebec",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "ab46ea1192d1fe4861c198f4d7e3c177560a0665bd5ea0c178e5ae79fb5f945e",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "fc4e3af1686e8345888223695be2f967b023016b31ba5e740794fbe40e0e2572",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "881d41c1529e14313cb9b3a86852ea3076ca655fd2054c5d5b9646d8c8188565",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "17d07610397103a0f7dfd2b1d52239cc3ff91c28500cb97f3a62993040fc14e8",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "d037c0c295addbc8827bde1d4255a7ccf08943bd8a98c4f62a6ae2b3f8085a53",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "627fcfbfae367e1fd4482b6595fd9acd0391f42ff5ee2af2f5cc14df4f1f840d",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "6563585667abae8707547caff6d0b53643cfd6c00d8f52df0fa8ff8db701d8ae",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "c71b9f769048b08721d7d70c32294ff93309ec4ed600995ff263c432885473d3",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "374ea4fe66a10473624a0c462ae69574d4e07ec9b79f2a357bbdc90b6a946149",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "76cbc630cc98c4b08400777278354ca1dc3f933d6bce0ad7378e12d92e7a6d5a",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "aeecd2ae2f8bc246c24a5985e9896ced46b0e0507fbbf7af0947c8c9def98225",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "4bddbfa65d3377d42756b3bb39c80c2bb27d4e8c214f8e98e0b9d59997fce2d3",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "468bb7fea0175f5c9e6f07f3049f9f4beeb97723f9f51e21aff7427c9e7bff64",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "ee2ff39fc339002a7b7feb6c0448eee91b3b7862a843021e810800a6d2be0b4c",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 2,
+    "small_tp": 2
+  },
+  {
+    "image_sha256": "72654659ae904868dc2db071f7f03d27ed63105cf6be62b984d9254011e915fa",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 1,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "67de21f7af838889762005729f4e148930e8f77f27732f8b9d8c3a02a2fd1171",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "8245b873c58a237036712e54a08ce5123b5cf037fdfffcde85c42627ea2dcdba",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 1,
+    "small_gt": 1,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "98c098574b730334027d1b5623c06527f725faa6040c0dfd6668d14e8060995c",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 1,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "cf0da34670f3654de238dda53c6dbc9c31d7c239f0f129de10ff7de1f6469a41",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "c9443ee05a0e9f7c12ca6a0e9e2666f78401ff9d9bf96fc377bd06a1be333737",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "7decb80f2d452f7621992cb049ee544cf0e9f53a6d41d9f153bf1bad0907d03f",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "4084089499a63030c6fe68d7db923d2fc3ba132ecf5d9f22a58c829ce1e274c1",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "93c70422e646c3510467808b41a3bad13023ddca1173d246a35fb58c034dfca5",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "8d3308efd76b809aa450fa5fa1c3a8ba0b80b1737338618efc6dcc3a25bc7ce4",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "9c397b6921972f2a1b2e32b390b7ac626fa8429562c69191a0cf150db02335f4",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "04a2b34e7549b745f3c60d66acc872f7ea84ba843226d52e657626db7ed40c1c",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 1,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "829e324e5216bab21464bd5ffc2a5b4ba130521c5d4925a2405477e761ce0465",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "7e34189ddc6a75acbc78b200a6af4d30fb8d33f19c63f329c459a3c7096d8cda",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "c5b87cda8d4267f20c01263da76931c4c86a23e9f35fc04e0d277163edd3a4a8",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "cfaea5b3c42410c597a5a92e05363004ba6a3a015e42e3d98206600dcd94b2df",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "d4a12a7c6e6baec72fa88e7c8b57ee7ab50eb91433959f18f232ca8bc5c214ea",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "ec806fc297fb06ed81c2e39020888772ba1bbcf8053c9e18d5d91347df3875fb",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "81116d4d2155f525670f224aed79c98bc132c306584e8132cb9b769c390e97cf",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "6bfdd0e38e69af96e77a406b233a2226f495f28d23adecc02cb15b394c3f7bac",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "a131c7eab03f58beed93e4a4a2e9a228c1c0ddb6cd4cf149207bb9295a3db19d",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "304c35c78307225b0589ceacf1053bd6313d233f9340c03bf3b15a8b932f3a32",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "cf819042c62c2f621d7f5f749085e6bf846e5f82a7bc0a32b7ebe11516996355",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "7138a899272a4bb34f5a666a562f7e00efffda5c87e6f1ef702956cc05ce0294",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "7dc17e66496ef083040bfac6342258e017b113e355027fa1f8dd160d1aef0d37",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "da8cf0fe91f419bfa779fb8bc18253f57627433db8b9501580667f59ea9ad0f0",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "c4055795593871d68856e61b359285b46c7dd0d803f2a2af8aa255ff0617bc82",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "c27aaba8987d7c47a40032fd36f87b97183be4653672be6e073d187a7bad100c",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "e917aa2a82be0b60951544ef8aa0d0f923676c78a17f41105c8a93faf4c80107",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "920bd0922ffa1c1e9715a15b4dc8b17969df55fe96e6dac0f890b8edc9aa9d7d",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "b93ddcf5c2685270f3d7fe8b8990fb73f2732ca5207094f230670077812d0b4e",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "ef17a558d383a015878f918952784d8c75bbe2d98124f93c849e2dc12979f555",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "e5a6e36dc9694d4d6274cd6d5c7da9186d0c52fdd37c991f442afc3a2ba42a5d",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "80a76865a306c2b36885ba76d912b0ebdd66e5c5b26bb024603cbed42f1dc9d5",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "c3530ef56a75bc26cbcec81ed278cc4682d7ef2ccc9de347e295ef53ee82e139",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "565f1bee825c19596e48c3013bfff66a444efd97fd10033eeec00b32f64f40fb",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "eb78a7cdba64f9212322762ead1f2fb69e1c0a0be1cffe54dc1cad8909ff901c",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "9fad775e210549fad2820f39f140ebed53a4668d2c90b5b38c2d64e457e7a202",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "19c10f455a7cc58f4d198f06c3ddf33dd498444d2ad72ae9e38b1fa90ba914bc",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "a4f5c19364bd074bb21daf93c0f567a05ccdc97d6ff203587ac2388d14b8f752",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "c7807828c1801576f6ab0038315ced2c8dba4141150045c29eb2c82111bd9440",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "b4e481fa93ba186364812e4ec9cde3797ea20b2ca88060ce45c4cbc507b2d1c7",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "e27c7d6170ef819559b907cadc0fba76460b47ef864eb2c4fe5b1a0d85604370",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 1,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "970f98e12ddd985a9baec5bfcb513eb5ef838c1000a8bf8887dda0d7d3c9adb4",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "5e814e718a2eb28750490ec20cbe1a8c282b066548098d7340bce38f66d5b9d0",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "cdc5971777e2724c3a4c62a5ff66c80cb13396ebc35b2aa3a438d0bad62f7d75",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 2,
+    "small_tp": 2
+  },
+  {
+    "image_sha256": "45b99aba976bbfc748baaeacfe759d58849cb177523ff5e1a7cd7853d7f514e2",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "c54435011a82779e16db90a78b9fd47ae077f691d0bbefdc0fcf6ea087970818",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "a76c4d91ede9e2855f9d193ec47569946b309449e988f8280cbad34bd4173f0d",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "1593295dc299a7a366789458592ed94caa27ecb59b299bd1fb9a91f535bc67ac",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "4bdb7324863c71cf8b3ac99860465ff57b45cba69c4dff2eee9d482e92bd7279",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "6afc71e9adc6b10615bddb77b2547e9ebb3349b76d52f801876d1cb78c757e58",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "95f6a32f315909271f51e107486872b0db4b49e8b89b87092d34f3f6df87bc26",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "999240df66316aeecb8ee052ece55459e772bf57b9faa119ea9ec27e2593a7f8",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "4c9c2240410811ed44e7ffcb675aaa7fe2716ecbd3d942f5c0c3a64855186de0",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "44eb20531d187dc0c12a961093f824cb4b24d6c5435d6a5a700c4f06dc5f92eb",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "62deb3572cb0574cc31dfd88d6554c10b9684a64c1ba2d2624558cb2e7de7818",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "c5b840d6f5eab9115110e0cffcee784e8cb4cfebabf5cd6fdfb59282c21f21e7",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "45b23530bfb889a3a4fda3d4c4eb6cc71983e4dded2ef030e44fc021b63c0952",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "04a55ea336c002958819fbdeec8a25406e9ba4e0e7dfd7740b438de33a790b5f",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "b2be184cf5dc660e493bcf2c5729e7fc5d22c069d8df8242a5f361b0bd859673",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "f62048adcc3e594797038e995c1a2055e22fcba7ab75d6c06f6b1774314efda3",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "7b5002821fa33018e2bc088e3a50fb888f6539414245076a5d59287b9c75bccd",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "2735b6180b35522e4c6a06e9ca1df70860a18f051bddef62c30e49c24eeabfa7",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "0de1f679bf7407f8d83967392f51ab2a5077b77a892c4bf964569b3b65b92f86",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "81a6526d289db0acc9fb9749a1a77f4a1a1fa538b43d1e180fe2acaef714c3a5",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "aa39743d791e201c53070c7bd7508f91fee4a10191f8e92375ad028d3691873a",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 1,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "9f20ebb2f07fe0b68ea42c924a831cecfa8afaea322a5255a609454841031493",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "a4c07315ca26437f9e91b81d74284fd66fd7be02870565ad524ffc932319bb80",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "9d6f003687f11476f36657538fc1ec4ec80a198101324df250bc4814ed7c06ef",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "98a5ec11878ff8defb337e8cae10e61aac80140f38a00d8bf1c5616c72b6482e",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "997d9421e4d3d89617924a901c7d8056e7e587ac015bea0a538d731915e353ce",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "9813118e6db92edb8dbc838958ec42e8e57eae3675557000d1b9e77dc878a76e",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "e2eb1063e58747e9248b6bf0afac9cbffce5ae8e04648c0497e7cd0d8493188d",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "0c72e76e80a8920043b9e6061bbfe92e510493d4845d551289a38a07b78bbc70",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "f1c6f0ca47178449254815759c8d271a00341117c23184daa00d34265ad5c14d",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "048c61c31d7892ac1a38bd7160a3e1834cee42dd133ac7c7c64e2e0a8120c7fd",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "8325d171e74e5e12ca5545706e3af883cf3363fbc4660e1fce5faad4aadcfe5e",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "3e13da1b05efc6be820fdeb88d818ddc431103f6c9138189af5f5c811def74f3",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "e293f61b140e1100cc45bb4ea886f5510183410053823ce2698876ac6adcc55e",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "6baf26b1393f9b08293d88a0ff79bcd349923b57f178d71f5dc98787d1bbe5a4",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "1f3be1c7e113a5030f9174100f7adada78de420558bf3122cb570fe986d0a377",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "df90aa1c6fec27b9da1c050b22be5fd3ed20dc0e00628b176bdf01bcc4bd3e37",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "7661462e9e9e646db0b97f757a208ffeb99336673100a37daa164b96eee2a2b5",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "b18a215f77cb60f5af01dd0ae8f72342ed48a5b37e487b00020ab35a36ded837",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "8f57e978e3e1c4b37a781ed4e86329691c83b03cde32441ef4ad5ad611357a83",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "5d490014f6e3a9b0a5476e8919b4bdaf83af511aa313b18664727ba4239e8382",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "169c0ffc5849916be6004b6b335e29b970cf801eebc46dc25d6c07cd3bfa69ba",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "d6788e5c66d8b5b2702fc2aa68e74ee94ce0085cd2e0c9425290dfb8af5c83dd",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "402c3128a5f8975c408d04d22b38dd6208e404f672bc8628bcfa31461032cca0",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "47438efdd3600511dfd8c1284d843f3a84c4b1efe08cca5f8914749dea5f56bb",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "5514e17de856de06eea2eae4005af36209d23a44d8d6a94e90cfa646794adb30",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 2,
+    "fn": 1,
+    "small_gt": 3,
+    "small_tp": 2
+  },
+  {
+    "image_sha256": "1ae0ab58e18f4d9c6ed70bfbfe939ff37972984e1eac72b779efa5136f8ca415",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "de00571de18def710c4e663d0ed92c59bddbd818200fc678f0c90d42bf424224",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "42fcc8af0fcc76b985a41deca3966261110cc431297cf2349bb66c757e38d860",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "9f71f97c385d0fb9bead4fc0f95371a13c1b38c656b3f9d0772c741be0b90026",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "46c768d648e64c42b745ca47d5223b7b100a879a8071c41704975ccd95ae326e",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "5d0c0401adbdd8442f67ffb17365151704daa452e369bf1f7c462d40cf42a448",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "9699f848d922e08043ecb140894de87de3c9bac2d8fe9a5496dd491dddd80311",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "99dea541e3fa27b8b4854feee918837e8374e4cfb1d89aafc5facfd47d4a93e9",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "a7051cdd204aa11a33a00d5b04a50bbd4d7086178c5f8a34c979eef5b2b76942",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "a20e5f6c9a323c9c449d3a94b99151b80955c4922536e83b646558ab63d7f8b4",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "aba887dc659cbb09bce3b199d3db29c056c0db26627dbf95f399ef55ed87e880",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "1d2d2145277cfbdf53ec35f461e280a34ea834f7637a1d4864c932855e584b21",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "ff29659c3fce12ba87009510d37e9cfde82e1a5ef2211d72f4f478e21c3b857b",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "ee414fbd290d9991a3af16a9daf1bd0f4e9ec84a8828b18c13eb0d9d5ddb7d7e",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "2718efe8480c9e3f38e07ce809035262e45751e9dbb119f42bfc8c3a8a38c13f",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "6f9fc55c820ddcc6e8a20f2f9c60c208f83faa5ef584ccaeae9bc5b8ebabf3e4",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "115ba8ed7682c3e53aae43e0dae264e4bf990ea215c954aa1e5805d75f8bee9c",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "6c85fdfb14b6cea8057590d7ff7eabaf17133e21cdc4b629e33f2903db23d207",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "a2baee66ea71fba16f092d6e2b45cdef9d8cfa1d8bb60eec101251213f4bb629",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "a23eb149f6146b33ff6698d5b8a166153e3bc79629a3d082f7d0472c41c2b4c7",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "1270c423bdc1128319907c75fcf5500c7f02d26dfbf38bf377c7d645744d8b82",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "ad42374b8b071a8cc2131cdb6eb2d4878962a9ecc5f5e677df6c977a61702f8d",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "f1f06329b84eda06496cea01913ea478ab61bf5ed2942870fc9a7b2340f0512b",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "f867c677537b7f19415ebf93c0440a1c887f04364ae290e8a91a014179a53ba0",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "28feed1d14b33e71c9dc622c88089fe9b4a3753fe7580882fef5dd3fd7998cc1",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "441670ed31db244acf381a6edabf94b2a25f57a229f8f29b0862a29c68ab3c13",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "ee46cdfc4cf8a6bcc14642b6c82e38254368fb1b244b476c8019bd6dbff3e2f9",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "6a4a47cc65cfb1a56d6b24374dffd9b28ee137ef65576f71a11620f0cb39b99f",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "689ef8caf67826f23a5c4297b1904250c29c0d130b67bef8c5afd726db87e8eb",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "6945d8a6c8cfa7a7fc5f32796cbccf41dd93484ea0fd8835a43f771451d28595",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "7f39de6cb1c8cd4de0bf8053b2c4e7332081252e32766ed3aa65f18dea32d30f",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "4f6d0ea47a67d059accf9f5570a869c534f2eb2b6914f4ce1229ed4c4e1a276e",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "ac43b1a14af5db5c3507d36bde8933cfc37571950f004fd6c8ab5460d8eb4a2e",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "ce19e82905f1d2cabcc2db3b3df7463b750fc933af8f5c97b604cf3098158806",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "e050752c9ad3358022c1326ef0c1c166758d3ac7db5ec81c1dedbff3538a93cf",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "61224e6a1894f94457c124860546a8f55b20d7de7d4a98a612916a07132f7a79",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "091654561c481a462ef75eb7fa68556d10d48c18ddd54d856402ff92b45b56d6",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "9711e1e7dfcbbf121946c2460d2618e6999bcbbf63afcc3bef8ce7ca831de152",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "047f4cea03b42a747cae3bc4c6bbbccdbb0bc687197a2c32cb6f1843adf598aa",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "2b53a6d72150a517600e5390a4f442f7aebd3f2451e5ac91e718cd3fc483aad8",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 1,
+    "small_gt": 2,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "50236eb1acb2874e43c9d25e786d0d59c732cccc72de7accb020a586dedd2da0",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "57ec1eed8839072aef8fc85caf91b06bf5218ab96de6142fb16615131e278433",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "a03e8f1dc69cc60ddb229e11bacb9a67b2660a4635efe9eed6299f1edaad9bcb",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "f5d81a0d8718c3dce4eb3925818573aaf189942f456d7fbd5157cc217e6d9d9d",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "db750765eb75d71e8b9f4f7949e8aa086c4d42f772c21c81642b159ae28fa50f",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "e4c924edebdba39bd7a533017fcae6b8a6e56f2da637f9e51bfa2ce1f0a7831c",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "94abe1b5b6241949f30a3f16fba053c126573c2905376f9fcdedfd996d22e514",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 1,
+    "small_gt": 2,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "60bd323c04daf0c832c40bef9462738b3e3aa629581e03762aae3c5caf24e7a1",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "af0954d223250c1f23a56eebd1897784fe3c997c6acf89a9efce8024fbe1f40e",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "00e9a649a1dfa7ab600d1f548a05f364a49a549c920a0b3a3e4ffb76a0a7480e",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "54c1c00918cd6e4b7f0c4540452711c7830970e4477d5629ed0bfde40a21fadb",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "71780788bc47c0a6a6df81d107457ec36e6632de145426208d69b945346a3c2a",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "4ee5cc3051c08a763c554a74a42304dd6896d7bff8257cc10d3a90b4468636c2",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "fb6012a949fb1abc425db34c9628ef6b7f0255aaec9cef7eedff2e3e80ed574f",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "6050f5bf75991a850a4865a23a69e106e1afbed3852b33d48aa2018c4e63c1f8",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "ed184e5ae3cf459604e77ab0ac497e29b016cf95adc38ccb9b2917ee040b6d70",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "5ff0c3aa9f15ca77b0b7197521f6d1615213ff7bb04fb5cf01011293211ee75f",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "bb43ce3f2854a5b3ca091bfa11cdcab3c62ee400a432a0f9fbece1b5178189d1",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "4da67e53484d9669aaed653382cb2d04f75b529cdab4c5f26499754ab6ab08ec",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "201f850c84ab0af196c28cd5fcf5dce225f39969aa123ed13bb0d49b59bf189f",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "4a74b5d9d5ade876bd6fdf0cf9ed31d4bc192ded0549f6f8261b6aa5ae473f5f",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "0a9209cb7ec673377a6ed5c1f2c37d79fcd6d6ec8600dba2b2aa047bbc96feea",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "21741b48dc3e01425a44bb87f70e01322849aa66606e809a34d1db59bad8388a",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "f59ff4340424e0ce6e5a04399500fa5d7acceaa6b1027a2dea294d4ffa83461f",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "8f57232720c7205a22ae6e940e7485d488afa6ac3255e2d29be3cb28f2b24c7a",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "c52262bf16ef689ad3e350f325b0e1595640bff8df26d18c5ad6941e4153897b",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "34d16ed48f65b87b9e7a56cf2e46e9f87a2cf1a92acbc4e6a631e6606ed622d2",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "0f85264fb4e12a42bb77f57cce54710cd83380726fcc4b4380a53c8fc2d0b690",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "949347b9f78a153291200093aa1c8b822db6e9955da17561287a47a844041eea",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "7bb2639803bcf73c587d6d78d32a52ecebf5e2f3e7c9f47d9d90a855c843524a",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "224580a97a1ec3ddc018e2158498574d0018d328884759800b878c7cf48bb56e",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "db799edea914b15b0f97898e02f6decd7f3e349fcecf121dc130153a2da15606",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 1,
+    "small_gt": 2,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "6075d7c35233cf32d10b84ef67029f740190688577566a0f08d6c56cd00d8f1f",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "bc0f535455cdc06a99a17d13d80d1268d30d3ac90a78a51659837abc751184f8",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 1,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "f81f3b3df1c565acbcf827d87b80ca8ebbcecd8a97b0516e12aab719c11dacf8",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "0b554ef9218f364910925802dd29482b738b766eb05bd27988f0220841cdc002",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "ee91f93a01b75893c388bb4a1e50889471ae2ce86863f960fe932196db0e065d",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "a71d83e8268bf2269db1987d105bfac511fa4f1cb83ed855d5fec47005778e32",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "d0e3212eb5aee5db89d91f110b4a24598e4ebcb8d40f1ebff4c2140dd589a7d8",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 1,
+    "small_gt": 1,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "b982632a4b7989c9330fbc33d8d50da8514bf7f26d3c2c125e0c0ef0d762edae",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "d4724c338b44275a5597d4c6afe8b5423f3941463a3dd53a843c0578d5e832a6",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "3701cbd4f5f1105d46568b0814d2dffd1d1d474ca767190c834e3e38580b2544",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "6c0c438aadd62fb5c1aa336c00de972ee449687f35b24d9fcf75ce5c384255d8",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "1aa7a12775493567b07b973c5f6bfaca7303e4697fda045a5c7caf8919b7b685",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "e9a2ce31773bfc076aa1e7cc5de9aa5c071c84a54c1a760321c6111b3875f5da",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "43790820ba9d23fd5ca73fe75030f697ba4a2d692807e90aa59a12004d3720dd",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "bcd9b0dc947c206a5c49f9fb3c11c9033cee2c68729c77c17bccdef3ed1a3aa3",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "fc409c5deff2a88d2813366240d782fd90c307083851474416879a657c469335",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 2,
+    "small_tp": 2
+  },
+  {
+    "image_sha256": "f63b618ec3bbb3a34d914c94ef1d4e4bd8d034bdc166e7c861c35f73a6acea09",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "3a5e97cc1fbdbd52757fe7c25b1ff7041aeb3f51c73dd27ef3a2da56f87560d8",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 1,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "af3cbe9e347f95ad592fc9218617baa2f0ece8e06db33336697eef8ee5f2b85a",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "c56cf1f4e3115c6428509c405a6feffd21676c18402e07e699fddcbe5a245f79",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "1be450392caa7992e2dc58707fe7971cfbfbc914644ab2ccd61dca81f9c0ff4a",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  },
+  {
+    "image_sha256": "ece6d45ced027f353eaa137ea3df6e83dc55478892115c391a61920f993d7f50",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 2,
+    "small_tp": 2
+  },
+  {
+    "image_sha256": "2734bd0201e9c1d7b38818c951d90cb98b582734d3d1deb27646e28d20acf427",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "a20cdebe54ae3264ac224aebff8b5a24b7edff9dfd3ee5445d0c498b8bf5f5db",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 1,
+    "small_gt": 2,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "7274e5ee7bb7e4e8e52a87033f20a7e26dd24cfde090fad69356eb0274eea064",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 1,
+    "small_tp": 1
+  },
+  {
+    "image_sha256": "3f03ec0c9e01c30d20bb996da077c30cfc38292372a1620c5980d60c6b8cdef3",
+    "model": "optimizado",
+    "scenario": "oscuro_05",
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "small_gt": 0,
+    "small_tp": 0
+  }
+]

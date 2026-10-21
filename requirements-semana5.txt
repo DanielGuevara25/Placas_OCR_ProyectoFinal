@@ -1,0 +1,5 @@
+# Añadir al entorno CUDA original: Python 3.11, torch 2.7.1+cu128,
+# torchvision 0.22.1+cu128, ultralytics 8.4.171.
+optuna==4.5.0
+scikit-learn==1.7.2
+pandas==2.3.3

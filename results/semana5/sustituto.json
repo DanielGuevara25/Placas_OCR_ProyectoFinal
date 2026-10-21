@@ -1,0 +1,30 @@
+{
+  "completed": 17,
+  "cv_r2": [
+    0.7760904272425331,
+    0.9817656874747385,
+    0.8402621308250846,
+    0.6822874973247244,
+    0.40319295937687616
+  ],
+  "cv_mae": [
+    0.0027453995856878965,
+    0.0010339524070834272,
+    0.003039091440601216,
+    0.004142796186066611,
+    0.00484526536883149
+  ],
+  "features": [
+    "log10(weight_decay)",
+    "degrees"
+  ],
+  "permutation_training_descriptive": [
+    0.013375221087264074,
+    1.6244820063314118
+  ],
+  "optuna_fanova": {
+    "degrees": 0.9677186897137674,
+    "weight_decay": 0.03228131028623259
+  },
+  "warning": "PDP e interacciones exploratorias; no causales. Revisar R2 de CV y cobertura; no extrapolar al ajuste de 100 épocas."
+}
