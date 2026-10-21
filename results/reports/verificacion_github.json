@@ -1,0 +1,44 @@
+{
+  "repository": "https://github.com/DanielGuevara25/Placas_OCR_ProyectoFinal",
+  "commit_verified": "4c5e60edc0cf6cc329589adb39e99a20c6aef341",
+  "checked_at_utc": "2026-10-21T11:58:46.412325+00:00",
+  "required_files_present": [
+    "LICENSE",
+    "NOTICE.md",
+    "README.md",
+    "models/manifest.json",
+    "docs/resultados_semana5.md",
+    "results/semana5/estado.json",
+    "results/semana5/ensayos.json",
+    "results/semana5/robustez_resumen.json",
+    "notebooks/01_exploracion.ipynb",
+    "notebooks/02_preprocesamiento.ipynb",
+    "notebooks/03_modelado.ipynb",
+    "notebooks/04_optimizacion.ipynb",
+    "notebooks/05_evaluacion.ipynb"
+  ],
+  "models_downloaded_and_verified": [
+    {
+      "model": "best",
+      "url": "https://raw.githubusercontent.com/DanielGuevara25/Placas_OCR_ProyectoFinal/main/models/best.pt",
+      "bytes": 4644617,
+      "sha256": "f2241a4bdb0e2125fcc233b799d5c928fd71c5b068e9bedbc250bc4f7e7843a2",
+      "verified": true
+    },
+    {
+      "model": "baseline",
+      "url": "https://raw.githubusercontent.com/DanielGuevara25/Placas_OCR_ProyectoFinal/main/models/baseline.pt",
+      "bytes": 4644489,
+      "sha256": "a61dee0f49c4abc84505af9df444ff5709e92fede7ea6edf6bf5fb41a3be1d69",
+      "verified": true
+    },
+    {
+      "model": "rotacion",
+      "url": "https://raw.githubusercontent.com/DanielGuevara25/Placas_OCR_ProyectoFinal/main/models/rotacion.pt",
+      "bytes": 4644617,
+      "sha256": "0354a2e108ef79e98f537c935b3397fc92d92f82817c57d43c46938db6c1ee72",
+      "verified": true
+    }
+  ],
+  "all_checks_passed": true
+}

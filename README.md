@@ -15,7 +15,10 @@ Estado: versión local verificada, cinco notebooks ejecutados y tres checkpoints
 finales disponibles en esta revisión. El estudio ampliado de Semana 5 terminó:
 60 ensayos procesados, dos ajustes de 100 épocas y pruebas de robustez.
 La búsqueda seleccionó la referencia; no hubo mejora demostrada.
-Siguen pendientes la publicación de esta revisión, el despliegue público y los videos.
+La revisión está publicada en GitHub: se verificaron 13 archivos requeridos y
+la descarga de los tres modelos con sus hashes SHA256. Ver
+[verificación de publicación](results/reports/verificacion_github.json).
+Siguen pendientes el despliegue público y los videos.
 
 ## Contenido
 

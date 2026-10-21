@@ -129,3 +129,8 @@ Actualización 21/10/2026: estudio completado a las 03:20; 60 ensayos procesados
 robustez. La selección coincide con la referencia: no hubo mejora demostrada.
 Ver `resultados_semana5.md`. Los cinco notebooks se ejecutaron sin errores.
 Falta publicar/verificar esta revisión, desplegar la aplicación y los videos.
+
+Publicación verificada el 21/10/2026: revisión `4c5e60e` subida a `main`;
+13 archivos requeridos presentes y tres checkpoints descargados por HTTPS
+desde el repositorio público, con tamaños y hashes SHA256 correctos. Evidencia:
+`results/reports/verificacion_github.json`. Quedan despliegue y videos.
