@@ -7,6 +7,7 @@ import copy
 import secrets
 import threading
 import time
+import os
 from pathlib import Path
 from flask import Flask, jsonify, render_template, request
 from werkzeug.utils import secure_filename
@@ -15,6 +16,9 @@ from app.web_service import ImageError, ModelsError, PlateService, WebSettings, 
 
 def create_app(service=None,settings=None):
     app=Flask(__name__)
+    if os.environ.get('DEMO_PASSWORD'):
+        from app.demo_security import install_demo_access
+        install_demo_access(app, os.environ['DEMO_PASSWORD'], os.environ.get('DEMO_USER', 'equipo'))
     app.config['MAX_CONTENT_LENGTH']=12*1024*1024+128*1024
     settings=settings or WebSettings(ROOT / 'models/best.pt')
     service=service or PlateService(settings)
@@ -25,6 +29,13 @@ def create_app(service=None,settings=None):
         now=time.monotonic()
         for key in list(jobs):
             if now-jobs[key][0]>900:del jobs[key]
+    if os.environ.get('DEMO_PASSWORD'):
+        def cleanup():
+            while True:
+                time.sleep(30)
+                with jobs_lock:
+                    prune()
+        threading.Thread(target=cleanup, name='demo-cleanup', daemon=True).start()
     @app.get('/')
     def home():return render_template('index.html')
     @app.get('/api/status')

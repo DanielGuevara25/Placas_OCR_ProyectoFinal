@@ -1,0 +1,2 @@
+# Instalar además de las dependencias de la aplicación.
+waitress>=3.0,<4

@@ -18,7 +18,9 @@ La búsqueda seleccionó la referencia; no hubo mejora demostrada.
 La revisión está publicada en GitHub: se verificaron 13 archivos requeridos y
 la descarga de los tres modelos con sus hashes SHA256. Ver
 [verificación de publicación](results/reports/verificacion_github.json).
-Siguen pendientes el despliegue público y los videos.
+La demostración dispone de [arranque protegido mediante túnel temporal](docs/demo_temporal.md),
+que depende de la PC encendida. El alojamiento independiente y los videos
+siguen pendientes. Las credenciales y el enlace temporal se gestionan fuera de Git.
 
 ## Contenido
 
