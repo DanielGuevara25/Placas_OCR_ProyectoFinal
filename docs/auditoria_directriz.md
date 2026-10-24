@@ -12,7 +12,9 @@ no a una garantía de calificación.
 | Licencia ausente | Textos de terceros revisados; equipo autorizó AGPL-3.0-only y se añadió LICENSE | Resuelto; datos y terceros mantienen sus condiciones |
 | Optimización S5 incompleta | 60 ensayos procesados, 17 completos; dos ajustes de 100 épocas, nueve escenarios e importancia/PDP | Ejecutado localmente; ver `resultados_semana5.md` |
 
-Persisten el despliegue público y los dos videos. La publicación se verificó
+Persisten la reactivación y comprobación del acceso temporal y los dos videos.
+La demo protegida se probó el 21/10; el 23/10 no había túnel activo.
+La publicación se verificó
 el 21/10/2026; evidencia en `results/reports/verificacion_github.json`.
 El estudio terminó el 21/10/2026. La búsqueda eligió
 la referencia y no demostró mejora. Su adaptación al ejemplo docente y sus

@@ -15,7 +15,11 @@ figura explican los controles y resultados visibles; no son salidas simuladas.
 
 Si el servidor ya está iniciado, abrir `http://127.0.0.1:8080`.
 Esta dirección funciona en el mismo equipo que ejecuta la aplicación.
-La URL pública se añadirá cuando el despliegue esté verificado.
+Para acceso desde otro equipo, usar la URL HTTPS de la demo que entregue el
+equipo junto con el usuario y contraseña exclusivos. El navegador solicitará
+esas credenciales antes de mostrar la página. No son las credenciales de GitHub.
+El enlace cambia al reiniciar el túnel y requiere la PC del equipo encendida.
+Se probó el 21/10/2026; el 23/10 el túnel no estaba activo.
 
 Para iniciarla desde PowerShell, en la raíz del proyecto y con el entorno
 de pruebas ya instalado:
@@ -28,6 +32,27 @@ Mantener abierta esa terminal. Para detener el servidor, pulsar Ctrl+C allí.
 La preparación de un entorno nuevo se explica en [pruebas](pruebas.md);
 las versiones probadas están en `requirements-tested.txt`.
 Los pesos del detector deben estar en `models/best.pt` o indicarse con `--weights`.
+
+Para reabrir la demo protegida, desde la raíz abrir dos terminales de PowerShell:
+
+```powershell
+.\.venv-tests\Scripts\python.exe tools/servidor_demo.py
+```
+
+```powershell
+.\.model-cache\demo\cloudflared.exe tunnel --url http://127.0.0.1:8081 --protocol http2 --no-autoupdate
+```
+
+Mantener ambas terminales abiertas y compartir el nuevo enlace HTTPS. El usuario
+y contraseña permanecen en el archivo local de acceso, excluido de Git.
+Para cerrar la demo iniciada en segundo plano:
+
+```powershell
+powershell -NoProfile -File tools/cerrar_demo.ps1
+```
+
+La preparación de dependencias, credenciales y limitaciones se explica en
+[demo temporal](demo_temporal.md). No incluir la contraseña en capturas o videos.
 
 ![Pantalla inicial real](assets/manual/01_inicio.jpg)
 
@@ -163,6 +188,9 @@ Véanse [evaluación OCR](../results/evaluation/analisis_ocr.md) y
 | El análisis expiró al seleccionar | Volver a analizar y seleccionar antes de exportar |
 | No funciona copiar | Seleccionar/copiar el texto manualmente o exportar JSON |
 | Se ve un estilo anterior | Recargar con Ctrl+F5 |
+| El enlace público no abre | Confirmar que servidor y túnel estén activos y pedir el enlace vigente |
+| Pide usuario y contraseña | Usar las credenciales de la demo proporcionadas por el equipo |
+| Aparece un límite temporal (429) | Esperar; la demo admite seis análisis por minuto y una inferencia a la vez |
 
 ## 9. Preguntas frecuentes
 
@@ -170,18 +198,20 @@ Véanse [evaluación OCR](../results/evaluation/analisis_ocr.md) y
 No. Confirma una igualdad de texto bajo las reglas del prototipo.
 
 **¿Puedo usar imágenes desde otro equipo con la dirección 127.0.0.1?**
-Esa dirección identifica el propio equipo. La publicación web todavía está
-pendiente; no se describe esta versión como un servicio público ya desplegado.
+Esa dirección identifica el propio equipo. Para otra red se usa la URL HTTPS
+del túnel activo, con contraseña. El enlace temporal no funciona si la PC está
+apagada, suspendida o el túnel se ha cerrado.
 
 **¿Por qué el primer análisis tarda más?**
 Carga los modelos y puede obtener los pesos OCR. Los siguientes reutilizan
 los modelos mientras el proceso permanezca activo.
 
 **¿Las fotos se guardan?**
-Las cargas y resultados se procesan en memoria. Hay hasta cuatro análisis
-temporales por proceso; la limpieza por vencimiento de quince minutos ocurre
-al recibir nuevas solicitudes de análisis o selección. Las exportaciones
-descargadas y los ejemplos incluidos sí persisten.
+No se archivan las fotos subidas. Puede haber archivos temporales durante la
+transferencia; se conservan hasta cuatro resultados en memoria por proceso.
+En modo local se limpian al recibir solicitudes; la demo añade una revisión
+cada 30 segundos para descartar resultados de más de quince minutos.
+Las exportaciones descargadas y los ejemplos incluidos sí persisten.
 
 **¿Por qué una confianza alta puede acompañar una lectura errónea?**
 La confianza no está calibrada como probabilidad de placa correcta. Revisar
@@ -193,8 +223,9 @@ Durante la entrega, comunicar los problemas al equipo de desarrollo:
 Daniel Guevara (Scrum Master) y Christian Guerra (Product Owner).
 El medio de coordinación y contacto del equipo es WhatsApp. Utilizar el contacto
 ya acordado con sus integrantes; no se publican números ni enlaces de grupo
-que no se hayan proporcionado para ese fin. Una vez creado el repositorio
-podrá definirse también su canal de incidencias.
+que no se hayan proporcionado para ese fin. También se pueden comunicar
+incidencias técnicas sin datos sensibles mediante
+[Issues del repositorio](https://github.com/DanielGuevara25/Placas_OCR_ProyectoFinal/issues).
 
 Para reportar un fallo, indicar versión del proyecto, acción realizada y mensaje
 visible. Evitar adjuntar fotografías, matrículas o información del sistema laboral

@@ -150,9 +150,10 @@ Los modelos se cargan en la primera inferencia y se reutilizan. Un lock por
 servicio serializa inferencias y protege cambios de confianza. Los análisis
 guardados usan otro lock para selección y exportación.
 
-Se conservan hasta cuatro análisis por proceso, no por usuario. El vencimiento
-de quince minutos se comprueba al recibir solicitudes de análisis o selección;
-no existe un temporizador que borre inmediatamente los datos al cumplirse el plazo.
+Se conservan hasta cuatro análisis por proceso, no por usuario. En modo local
+el vencimiento de quince minutos se comprueba al recibir solicitudes de análisis
+o selección. En la demo protegida también hay limpieza periódica cada 30 segundos;
+no se promete borrado en el segundo exacto del vencimiento.
 Detener el proceso descarta esa memoria. Las exportaciones descargadas y los
 ejemplos estáticos persisten por separado.
 
@@ -160,10 +161,24 @@ El estado de los análisis no se comparte entre procesos. Un despliegue con
 múltiples workers podría enviar una selección a un proceso que no conoce su
 identificador; requiere resolver el almacenamiento o enrutamiento de sesiones.
 
-El lanzador actual escucha en `127.0.0.1`, con debug desactivado, mediante el
-servidor de desarrollo Flask. No es todavía el despliegue público final.
-La aplicación no implementa autenticación, cuotas por usuario ni vinculación
-del identificador de análisis con una sesión autenticada.
+Hay dos formas de arranque, ambas con debug desactivado:
+
+- `web_app.py`: servidor de desarrollo Flask en `127.0.0.1:8080`, uso local.
+- `tools/servidor_demo.py`: Waitress 3.0.2 en `127.0.0.1:8081`, un proceso
+  con cuatro hilos y acceso HTTP Basic configurado mediante credenciales locales.
+  Cloudflare Tunnel aporta la URL pública HTTPS. El secreto está fuera de Git.
+
+`app/demo_security.py` limita la demo a seis análisis por minuto en total,
+una inferencia simultánea y 180 solicitudes autenticadas por minuto. Rechaza
+operaciones desde otros orígenes del navegador y limita intentos fallidos de
+acceso. No hay cuentas individuales, cuotas por usuario ni vinculación del
+identificador de análisis con una sesión personal. El acceso compartido no
+equivale a un sistema de auditoría de usuarios.
+
+La demo por HTTPS se probó el 21/10/2026. El 23/10 no había túnel activo;
+su disponibilidad depende de la PC, Internet y ambos procesos. Ver
+[demostración temporal](demo_temporal.md). El alojamiento independiente no
+se ha contratado ni probado.
 
 ## Entornos y reproducibilidad
 
@@ -193,6 +208,7 @@ Para reproducir la inspección de arquitectura, con pesos y OCR ya cacheados:
 .\.venv-tests\Scripts\python.exe -m src.inspeccionar_arquitectura
 ```
 
-La comprobación funcional está documentada en [pruebas](pruebas.md): diez
-pruebas unitarias y tres casos con modelos reales. Estas verificaciones no
+La comprobación funcional está documentada en [pruebas](pruebas.md): dieciséis
+pruebas unitarias aprobadas el 23/10/2026 y tres casos con modelos reales
+comprobados previamente. Estas verificaciones no
 sustituyen una prueba de carga, auditoría de seguridad o validación de producción.

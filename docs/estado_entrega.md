@@ -1,136 +1,94 @@
 # Estado de preparación de la entrega
 
-Auditoría inicial: 19 de octubre de 2026. Este archivo registra pendientes;
-no certifica que el proyecto ya cumpla toda la rúbrica.
+Actualizado: **23 de octubre de 2026**. Esta lista distingue evidencias y
+pendientes; no certifica una nota ni cumplimiento total. El historial anterior
+se conserva en Git.
 
-## Aplicación identificada
+## Completado y publicado
 
-La aplicación web usa Flask (`app/app.py`), HTML en `app/templates/`
-y JavaScript/CSS en `app/static/`. Actualmente se inicia en localhost.
-El código está separado en `src/` y `app/`; los lanzadores de la raíz conservan
-los comandos anteriores. Las copias antiguas están en `archive/`, excluido de Git.
-El mapa de movimientos está en `organizacion.md` y `migracion_archivos.json`.
+| Componente | Evidencia y alcance |
+|---|---|
+| Repositorio público | `DanielGuevara25/Placas_OCR_ProyectoFinal`, rama `main`, verificado el 23/10 |
+| Organización | `src/`, `app/`, `data/`, `models/`, `notebooks/`, `tests/`, `results/` y documentos |
+| Licencia | AGPL-3.0-only para aportes propios, autorización del equipo y atribuciones |
+| Documentación | Los seis documentos existen; estados actualizados el 23/10 |
+| Dataset y EDA | 7.332 imágenes, 8.208 cajas, seis gráficos individuales y límites de procedencia |
+| Modelos | Tres pesos publicados; descarga pública verificada con SHA256 el 21/10; hashes locales correctos el 23/10 |
+| Notebooks | Cinco ejecutados, válidos, sin celdas pendientes ni errores guardados en la revisión del 23/10 |
+| Pruebas | 16 unitarias aprobadas el 23/10; tres casos con modelos reales comprobados previamente |
+| Evaluación | Métricas históricas del detector y evaluación OCR separada, con sus límites |
+| Semana 5 | 60 ensayos procesados (17 completos, 43 podados), importancia/PDP, dos ajustes de 100 épocas y nueve escenarios |
+| Demo protegida | Waitress, contraseña, HTTPS vía Cloudflare, límites y limpieza periódica; prueba real por HTTPS el 21/10 |
 
-La web carga por defecto
-`models/best.pt` con Ultralytics (copia verificada del experimento de regularización),
-y utiliza el OCR `cct-s-v2-global-model`. El detector predeterminado del
-ejecutable de consola es distinto: emplea `open-image-models`.
-La documentación final debe distinguir ambos recorridos.
+La selección S5 coincide con la referencia: **no hubo mejora demostrada**.
+Los gráficos exploratorios no sustituyen múltiples semillas ni evaluación
+independiente. Test quedó fuera de búsqueda. Ver [resultados S5](resultados_semana5.md).
 
-## Orden de preparación y publicación
+## Acceso actual de la interfaz
 
-1. Inventariar evidencias, separar datos locales y definir exclusiones de Git: realizado.
-2. Organizar `src/`, `app/`, `data/`, `models/`, `notebooks/` y `results/`
-   conservando imports, recursos y rutas funcionales: realizado; 10 pruebas web aprobadas.
-3. Reconstruir dependencias reproducibles y verificar pruebas e inferencia:
-   realizado en `.venv-tests/`, Python 3.12.14 CPU; versiones en `requirements-tested.txt`.
-4. Completar README y los seis documentos exigidos en `docs/`.
-5. Distribución de tres checkpoints finales preparada y documentada;
-   arranque de producción y despliegue web pendientes.
-6. Revisar archivos publicables, crear el repositorio y subir el código.
-7. Incorporar URL de la aplicación y enlaces reales de ambos videos.
+La demo se preparó y verificó, pero **no estaba activa el 23/10**: el hostname
+anterior no respondió y no se encontró `cloudflared` ejecutándose. Es un
+pendiente operativo, no un despliegue nuevo por diseñar.
 
-## Evidencias encontradas
+Para evaluar, reabrir servidor y túnel, comprobar desde otra red y comunicar
+al profesor la URL vigente y las credenciales por separado. La PC debe estar
+encendida, conectada y sin suspensión. No publicar la contraseña en GitHub.
+Ver [demo temporal](demo_temporal.md) y [manual](manual_usuario.md).
 
-| Elemento | Evidencia local | Pendiente |
-|---|---|---|
-| Interfaz web | `app/app.py`, `app/templates/`, `app/static/` | Inferencia real comprobada en 3 ejemplos; despliegue pendiente |
-| Experimentos | `docs/optimizacion.md`, comparación reproducible y dos figuras | Ampliación de sensibilidad/Workshop S5 pendiente |
-| Detector | `results/evaluation/README.md` y `app/static/evaluation/` | Confirmar separación de datos; SHA256 en `models/manifest.json` |
-| OCR | `results/evaluation/analisis_ocr.md` | Integrar resultados con sus límites |
-| Pruebas | `tests/` y `docs/pruebas.md` | 10 unitarias y 3 casos reales aprobados |
-| Ejemplos web | `app/static/examples/` | Comprobar permisos antes de publicación pública |
-| Dependencias | `requirements.txt`, `requirements-tested.txt` | Instalación CPU verificada; despliegue por verificar |
-| Git | Primera versión publicada en `main` de `DanielGuevara25/Placas_OCR_ProyectoFinal` | Completar pendientes antes de la entrega final |
+`web_app.py` sirve para uso local en puerto 8080. La demo usa
+`tools/servidor_demo.py` y Waitress en `127.0.0.1:8081`. No se ha contratado
+alojamiento independiente; el PDF no exige pagar un servicio.
 
-## Documentación por completar
+## Pendientes obligatorios de presentación
 
-- `planificacion.md`: preparado como reconstrucción basada en evidencias;
-  inicio y periodos de datos, entrenamiento, pruebas y web confirmados;
-  plazo oficial pendiente.
-- `analisis_datos.md`: preparado con procedencia declarada, auditoría de 7.332
-  imágenes, etiquetas, duplicados exactos y seis gráficos EDA.
-- `arquitectura.md`: preparado con diagrama, API, modelos inspeccionados,
-  parámetros, versiones y límites del despliegue.
-- `optimizacion.md`: comparación y límites documentados; faltan experimentos
-  suficientes para dependencia parcial, importancia e interacciones del Workshop S5.
-- `consideraciones_eticas.md`: preparado con los ocho ejes de la directriz,
-  medidas implementadas y controles pendientes diferenciados.
-- `manual_usuario.md`: preparado con cinco capturas reales y anotaciones,
-  pasos, interpretación, exportaciones, FAQ y problemas comunes; contacto por WhatsApp.
+1. Incorporar el pitch de máximo cinco minutos, con interfaz real, 2-3 casos,
+   manejo de errores, resultados, ética y enlace/QR del proyecto.
+2. Incorporar el video que responda las preguntas asignadas por el profesor,
+   en orden y numeradas, con la duración y plazo indicados por él.
+3. Añadir ambos enlaces reales al README y verificar permisos de acceso.
+4. Confirmar plazos: aparecen en blanco en el PDF proporcionado.
 
-No se deben presentar análisis o gráficos no realizados como evidencia experimental.
+No se aportaron videos verificables durante esta revisión. No se afirma que
+no existan fuera de la carpeta del proyecto; falta incorporarlos a la entrega.
 
-## Bloqueos técnicos observados
+## Calidad y reproducibilidad por cerrar
 
-El ejecutable `.venv/Scripts/python.exe` apunta a una instalación ausente de
-Python 3.11. No se ha podido listar las dependencias de ese entorno ni ejecutar
-la aplicación con él. No se ha modificado ese entorno.
+- Revisar estilo PEP 8 y docstrings. Los tests no certifican estilo, seguridad
+  ni corrección completa del código.
+- Consolidar dependencias de demo y comprobar instalación desde un clon limpio
+  en Linux. El entorno Windows CPU existente sí fue probado.
+- Usar una rama para futuras correcciones y etiquetar una versión cuando esté
+  lista. Hasta esta revisión se observó sólo `main` y ningún tag.
+- Definir condiciones de acceso al dataset si se requiere reproducir el
+  entrenamiento. Los datos laborales completos no están publicados ni tienen
+  licencia abierta declarada; hay autorización académica y publicación
+  confirmada por el autor. La demo puede usar los checkpoints publicados.
+- Confirmar contribuciones técnicas individuales si se quieren detallar;
+  los integrantes y sus roles organizativos ya están documentados.
 
-Se creó un entorno independiente `.venv-tests/` con Python 3.12.14 que sí ejecuta
-las pruebas unitarias y la inferencia real en CPU. No es necesario usar el entorno roto
-para iniciar la web; consultar `pruebas.md`.
+## Entornos y modelos
 
-Se agregaron PyTorch, Ultralytics, PyYAML y matplotlib a los requirements,
-y se unificó la instalación de la web. El entrenamiento de mejoras exige
-explícitamente Ultralytics 8.4.171. La instalación CPU está verificada;
-falta verificar el entorno del despliegue. Las versiones probadas en Windows CPU están
-fijadas en `requirements-tested.txt`; también se agregó ONNX Runtime para el OCR.
+La web usa `models/best.pt`, del entrenamiento histórico de regularización,
+y OCR `cct-s-v2-global-model`. S5 no sustituyó el modelo de la aplicación.
+La consola `main.py` tiene otro recorrido, con detector de open-image-models.
 
-## Publicación web pendiente
+Inferencia y tests funcionan en `.venv-tests/`, Python 3.12.14 CPU; versiones
+en `requirements-tested.txt`, con dependencias adicionales en
+`requirements-demo.txt`. No usar el antiguo lanzador de `.venv/`: su intérprete
+base falta. Para S5 se recuperó Python 3.11 por separado y se reutilizó PyTorch
+2.7.1+cu128 en la RTX 5070 Ti. No se confunden los entornos CPU y CUDA.
 
-Flask sirve también los HTML, CSS y JavaScript existentes. Es necesario alojar
-el backend Python para ejecutar los modelos. Un alojamiento de archivos
-estáticos por sí solo no ejecuta la inferencia.
+## Equipo y fechas confirmadas
 
-Antes del despliegue hay que definir el servidor de producción, puerto e interfaz
-de escucha, memoria disponible, dispositivo CPU/GPU, suministro de pesos y
-descarga inicial del OCR. La retención de análisis usa memoria del proceso;
-debe tenerse en cuenta al configurar múltiples procesos.
+Daniel Guevara (Scrum Master) y Christian Guerra (Product Owner), ambos como
+equipo de desarrollo. Coordinación por WhatsApp sin publicar números privados.
+Datos: 16-18/09; inicio formal: 22/09; entrenamientos históricos: 29/09-01/10;
+pruebas iniciales: 05-09/10; web: 10-13/10; estudio ampliado: 20-21/10/2026.
 
-Los tres checkpoints finales están preparados para incluirse en Git, con origen,
-descarga y SHA256 documentados; los pesos por época permanecen fuera.
-El acceso remoto se comprueba después de publicar esta revisión.
-También hay que revisar las imágenes de ejemplo y los resultados que contengan
-matrículas antes de hacerlos públicos.
+## Evidencias relacionadas
 
-## Datos que requieren confirmación del equipo
-
-- Equipo confirmado: Daniel Guevara (Scrum Master) y Christian Guerra
-  (Product Owner), ambos como equipo de desarrollo. Distribución técnica
-  individual pendiente de especificar. Coordinación y contacto mediante WhatsApp.
-- Licencia pública específica del dataset: no indicada. El autor confirmó
-  procedencia del sistema laboral y autorización para uso académico y publicación.
-- Cronograma confirmado: datos 16–18/09/2026; inicio formal 22/09/2026;
-  entrenamientos 29/09–01/10/2026; pruebas iniciales 05–09/10/2026;
-  desarrollo web 10–13/10/2026. Plazo oficial y requisitos del Workshop S5 pendientes.
-- Repositorio confirmado: `DanielGuevara25/Placas_OCR_ProyectoFinal`.
-  Destino del despliegue pendiente.
-- Enlaces de videos y preguntas asignadas por el profesor.
-
-## Revisión posterior de requisitos
-
-La auditoría del compañero identificó carencias adicionales: los cinco notebooks
-ya se crearon y ejecutaron con salidas reales; los tres pesos finales quedaron
-preparados para descarga; se completaron los apartados del README y se aplicó
-AGPL-3.0-only tras autorización del equipo. Ver `auditoria_directriz.md`.
-
-El notebook docente de Semana 5 confirma que falta el estudio ampliado de
-Optuna, escenarios críticos, importancia, PDP e interacciones. No se marca
-resuelto por añadir `04_optimizacion.ipynb`. Existe una RTX 5070 Ti de 16 GB
-en el equipo. El 20/10 el usuario autorizó varias horas de GPU; se recuperó
-Python 3.11 y se comprobó una operación CUDA con PyTorch 2.7.1+cu128.
-El diseño de 60 ensayos cortos, dos ajustes completos y robustez se describe
-en `estudio_semana5.md`. Consultar `results/semana5/estado.json` para el avance
-real: no se considera completado mientras falten resultados.
-
-Actualización 21/10/2026: estudio completado a las 03:20; 60 ensayos procesados
-(17 completos, 43 podados), dos ajustes de 100 épocas y nueve escenarios de
-robustez. La selección coincide con la referencia: no hubo mejora demostrada.
-Ver `resultados_semana5.md`. Los cinco notebooks se ejecutaron sin errores.
-Falta publicar/verificar esta revisión, desplegar la aplicación y los videos.
-
-Publicación verificada el 21/10/2026: revisión `4c5e60e` subida a `main`;
-13 archivos requeridos presentes y tres checkpoints descargados por HTTPS
-desde el repositorio público, con tamaños y hashes SHA256 correctos. Evidencia:
-`results/reports/verificacion_github.json`. Quedan despliegue y videos.
+- [Contraste completo contra el PDF](contraste_final_2026_10_23.md).
+- [Pruebas e integración](pruebas.md).
+- [Publicación verificada](../results/reports/verificacion_github.json).
+- [Planificación](planificacion.md), [arquitectura](arquitectura.md) y
+  [consideraciones éticas](consideraciones_eticas.md).

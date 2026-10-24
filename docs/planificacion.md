@@ -35,9 +35,9 @@ evidencia, resultados y limitaciones para revisión humana.
 | Entrenar un detector y comparar variantes | Baseline, regularización y rotación, 100 épocas cada uno | Ejecutado |
 | Evaluar detección y lectura por separado | Métricas del detector y muestra OCR transcrita | Ejecutado con límites documentados |
 | Integrar una web con validación, ejemplos y exportación | Flask, HTML/CSS/JS y modelos locales | Funcional localmente |
-| Comprobar el comportamiento | 10 pruebas unitarias, 3 casos reales y recorrido visual | Ejecutado |
-| Documentar arquitectura, datos, optimización y ética | Archivos de `docs/` y gráficos | Preparado; pendientes específicos del Workshop S5 |
-| Publicar una versión reproducible | Repositorio público y despliegue accesible | Pendiente |
+| Comprobar el comportamiento | 16 pruebas unitarias aprobadas el 23/10, 3 casos reales previos y recorrido visual | Ejecutado con límites documentados |
+| Documentar arquitectura, datos, optimización y ética | Seis documentos, cinco notebooks y estudio ampliado S5 | Documentado; S5 terminado el 21/10 sin mejora demostrada |
+| Publicar una versión reproducible | GitHub público, tres modelos descargables y demo por túnel protegida | Publicado; reactivar y verificar demo antes de evaluar; clon limpio Linux pendiente |
 | Comunicar el proyecto | Pitch y respuestas a preguntas | Pendiente |
 
 ## Alcance
@@ -49,7 +49,8 @@ confianzas, advertencias y descargas JSON/ZIP/recortes.
 Quedan fuera del alcance validado: vídeo en tiempo real, seguimiento temporal,
 consulta de propietarios, identificación integral del vehículo, detección de
 daños, autenticidad documental, detección de fraude y aprobación automática
-de pólizas. El servicio público multiusuario todavía requiere preparación.
+de pólizas. La demo usa acceso compartido y límites globales; no es un servicio
+de producción con cuentas y almacenamiento aislado por usuario.
 
 ## Metodología y decisiones
 
@@ -65,6 +66,10 @@ de pólizas. El servicio público multiusuario todavía requiere preparación.
 5. Integrar OCR preentrenado y reglas de comparación inspeccionables, manteniendo
    resultados reales aunque existan errores o baja cobertura de transcripción.
 6. Verificar por pruebas automatizadas e interacción real y documentar los límites.
+7. Ampliar S5 con 60 ensayos procesados (17 completos), importancia, PDP y
+   robustez. La selección coincide con la referencia, sin mejora demostrada.
+8. Publicar en GitHub y probar una demo temporal con Waitress, contraseña y
+   Cloudflare Tunnel, manteniendo las credenciales fuera del repositorio.
 
 ## Cronograma: secuencia prevista frente a ejecución observada
 
@@ -82,7 +87,9 @@ no se dispone de un cronograma inicial para medir desviaciones frente al plan.
 | Evaluación adicional | Medir detector y OCR por separado | Evidencias y análisis de errores posteriores a las pruebas iniciales | Archivos de evaluación indican 18/10/2026 |
 | Verificación | Probar y corregir integración | Entorno CPU reconstruido y pruebas aprobadas | Preparación de entrega, 19/10/2026 |
 | Documentación | Completar seis documentos y README | Archivos preparados con evidencias y pendientes | Preparación de entrega, 19/10/2026 |
-| Publicación | GitHub, pesos y despliegue | Pendiente de preparar y verificar | Fecha propuesta pendiente |
+| Optimización ampliada | Adaptar Workshop S5 y ejecutar búsqueda/robustez | 60 ensayos, dos ajustes de 100 épocas y nueve escenarios | 20-21/10/2026, registros de `results/semana5/` |
+| Publicación | GitHub, pesos y demostración | Repositorio y descargas verificados; demo protegida probada por HTTPS | 21/10/2026; el 23/10 el túnel estaba inactivo y debe reabrirse |
+| Cierre documental | Unificar el estado de los documentos | Actualización de planificación, arquitectura, ética, manual, pruebas y README | 23/10/2026, revisión contra la directriz |
 | Presentación | Grabar pitch y responder preguntas asignadas | Pendiente | Plazos oficiales pendientes |
 
 No se calcula retraso ni cumplimiento de plazos porque no se dispone de la
@@ -106,7 +113,7 @@ las pruebas de navegador de la versión actual al periodo anterior al desarrollo
 | Inferencia probada | Windows, Python 3.12.14 y PyTorch 2.14.1 CPU en `.venv-tests/` |
 | Software | Ultralytics, fast-plate-ocr, ONNX Runtime, Flask, NumPy y Pillow |
 | Interfaz | Navegador y recursos HTML/CSS/JavaScript existentes |
-| Publicación | Cuenta/repositorio GitHub y alojamiento aún por concretar |
+| Publicación | GitHub público y demo temporal con Cloudflare; sin alojamiento independiente contratado |
 | Equipo humano | Daniel Guevara (Scrum Master) y Christian Guerra (Product Owner); ambos integran el equipo de desarrollo |
 
 Las versiones completas verificadas están en `requirements-tested.txt`.
@@ -139,8 +146,9 @@ sido proporcionados para ese fin.
 | Etiquetas geométricamente válidas pero incorrectas | Comprobación de formato, coordenadas y manifiesto | Auditoría visual independiente |
 | Problemas de instalación | Entorno nuevo probado y versiones guardadas | Verificar plataforma de despliegue |
 | Exposición de fotos y matrículas | Separación de datos locales e informes agregados | Controles de acceso y retención de producción |
-| Modelo inaccesible al clonar | Pesos locales con SHA256 y origen registrado | Definir descarga pública reproducible |
-| Evidencia insuficiente de optimización avanzada | Reportar tres corridas y límites reales | Diseño suficiente para requisitos del Workshop S5 |
+| Modelo inaccesible al clonar | Tres pesos publicados, con SHA256 y descarga verificada | Mantener manifiesto y descargas al versionar |
+| Sobreinterpretar optimización | S5 ejecutado, resultados negativos y límites publicados | Más semillas y evaluación independiente para conclusiones más fuertes |
+| Demo temporal inaccesible | Servidor protegido e instrucciones de arranque/cierre | Mantener PC y túnel activos durante evaluación; confirmar URL vigente |
 | Retrasos de presentación | Identificar dos videos y preparar guiones | Confirmar plazos y preguntas del profesor |
 
 ## Criterios de cierre de la entrega

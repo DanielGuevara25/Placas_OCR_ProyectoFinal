@@ -58,28 +58,37 @@ La procedencia y autorización declaradas constan en
 
 Medidas implementadas:
 
-- El backend procesa las cargas en memoria y no las escribe automáticamente en disco.
+- No se archivan las cargas como un dataset; los resultados se conservan en
+  memoria. Las bibliotecas HTTP pueden usar archivos temporales al transferirlas.
 - Hay límites de tamaño y resolución; las solicitudes y resultados se validan.
 - Las respuestas usan `Cache-Control: no-store` y `X-Content-Type-Options: nosniff`.
 - El almacenamiento temporal tiene un máximo de cuatro análisis por proceso.
-- Los datos completos e inventarios locales están excluidos de Git; los informes
-  EDA públicos son agregados y no contienen nombres de archivo ni matrículas.
+- La demo usa contraseña compartida, HTTPS mediante el túnel, límites de
+  solicitudes y una inferencia simultánea. Las credenciales quedan fuera de Git.
+- Las fotografías completas del dataset y los inventarios de revisión locales
+  están excluidos de Git. Los informes EDA son agregados. El estudio S5 publica
+  un manifiesto de rutas relativas y hashes, sin las fotografías; los ejemplos
+  y parte de la evaluación sí contienen matrículas bajo la autorización declarada.
 
 Límites de estas medidas:
 
-- Los quince minutos de retención se aplican al limpiar durante una solicitud,
-  no mediante borrado programado al segundo exacto de vencimiento.
+- En modo local, los quince minutos de retención se comprueban durante una
+  solicitud. La demo protegida añade limpieza cada 30 segundos; no garantiza
+  borrado en el segundo exacto del vencimiento.
 - Las descargas guardadas por el usuario y los ejemplos estáticos sí persisten.
 - El OCR puede descargar pesos al inicializar si no están en caché; la inferencia
   implementada usa modelos locales y no envía la foto a una API OCR externa.
-- No hay cuentas, control de acceso ni vinculación de análisis a un usuario.
-  Un identificador aleatorio no sustituye estos controles.
+- Hay acceso compartido con contraseña en la demo, pero no cuentas individuales,
+  registro de IP de visitantes ni vinculación de análisis a una persona.
+  El identificador aleatorio de análisis no sustituye esos controles.
 - No se realizó una evaluación jurídica de obligaciones aplicables ni se certifica
   cumplimiento de un régimen de protección de datos por estas medidas técnicas.
 
-Antes de un despliegue público deben definirse acceso, transporte cifrado,
-retención operativa, límites de solicitudes y gestión de datos exportados.
-Estas son tareas pendientes, no controles ya desplegados.
+La demo protegida implementa acceso, transporte cifrado, retención y límites
+descritos en [demo temporal](demo_temporal.md). Se verificó por HTTPS el 21/10;
+el 23/10 no estaba activa. No equivale a una validación de producción.
+Siguen pendientes políticas operativas de exportaciones, cuentas individuales
+y evaluación jurídica si se pretende un uso real más amplio.
 
 ## 4. Transparencia y explicabilidad
 

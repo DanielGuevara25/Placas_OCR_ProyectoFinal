@@ -182,8 +182,10 @@ preentrenado de `open-image-models`, no el modelo entrenado de la web:
 python main.py --input "ruta/a/foto.jpg"
 ```
 
-El servidor local actual no constituye un despliegue público.
-El alojamiento web y servidor de producción siguen pendientes de preparar.
+El lanzador anterior sirve para uso local. La demo temporal usa Waitress,
+acceso con contraseña y Cloudflare Tunnel; ver [arranque y cierre](docs/demo_temporal.md).
+Se comprobó por HTTPS el 21/10/2026. El 23/10 el túnel no estaba activo:
+se debe iniciarlo y verificar su nueva URL antes de compartirlo.
 
 ## Interfaz de usuario
 
@@ -194,7 +196,8 @@ ver confianzas y descargar JSON, ZIP y recortes. Valida entradas y comunica erro
 ![Coincidencia real en la web](docs/assets/manual/03_coincidencia.jpg)
 
 Las instrucciones, cinco capturas y soluciones están en el
-[manual de usuario](docs/manual_usuario.md). URL pública: pendiente de despliegue;
+[manual de usuario](docs/manual_usuario.md). La URL de la demo es temporal:
+el equipo entrega el enlace vigente y las credenciales al evaluador por separado.
 `127.0.0.1:8080` corresponde únicamente al servidor local.
 
 ## Notebooks
@@ -288,8 +291,10 @@ afirmaciones de fraude. La confianza no está calibrada y puede ser alta aun
 con una lectura errónea. Los datos de una fuente laboral pueden tener sesgos
 de captura y no prueban equidad entre grupos.
 
-Las cargas se procesan en memoria, pero las descargas y los ejemplos sí persisten.
-Faltan controles de acceso y validación de producción antes de exponer el servicio.
+La demo restringe el acceso con contraseña, limita solicitudes y limpia los
+resultados en memoria. Las transferencias pueden usar archivos temporales;
+las descargas del usuario y los ejemplos sí persisten. No hay cuentas individuales
+ni auditoría de visitantes, y no se certifica seguridad de producción.
 El [análisis ético](docs/consideraciones_eticas.md) desarrolla los ocho apartados
 exigidos y distingue controles implementados de propuestas.
 
@@ -309,9 +314,10 @@ de contacto no se incluyen en este repositorio.
 
 ## Estado de entrega
 
-Este README es una base de organización, todavía no la documentación final
-exigida por la materia. [Estado de entrega](docs/estado_entrega.md) registra
-pendientes de documentación, optimización, licencias y despliegue.
+El código, los cinco notebooks, los modelos, la licencia y el estudio de Semana 5
+están publicados. [Estado de entrega](docs/estado_entrega.md) mantiene la lista
+vigente: videos y enlaces, acceso operativo de la demo y comprobaciones finales
+de calidad y reproducibilidad. No se declara cerrada toda la entrega.
 
 Véase la [auditoría contra la directriz](docs/auditoria_directriz.md).
 
