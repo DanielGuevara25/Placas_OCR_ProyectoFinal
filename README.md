@@ -19,8 +19,8 @@ La revisión está publicada en GitHub: se verificaron 13 archivos requeridos y
 la descarga de los tres modelos con sus hashes SHA256. Ver
 [verificación de publicación](results/reports/verificacion_github.json).
 La demostración dispone de [arranque protegido mediante túnel temporal](docs/demo_temporal.md),
-que depende de la PC encendida. El alojamiento independiente y los videos
-siguen pendientes. Las credenciales y el enlace temporal se gestionan fuera de Git.
+que depende de la PC encendida. El alojamiento independiente no está contratado.
+Las credenciales y el enlace temporal se gestionan fuera de Git.
 
 ## Contenido
 
@@ -316,7 +316,7 @@ de contacto no se incluyen en este repositorio.
 
 El código, los cinco notebooks, los modelos, la licencia y el estudio de Semana 5
 están publicados. [Estado de entrega](docs/estado_entrega.md) mantiene la lista
-vigente: videos y enlaces, acceso operativo de la demo y comprobaciones finales
+vigente: acceso operativo de la demo y comprobaciones finales
 de calidad y reproducibilidad. No se declara cerrada toda la entrega.
 
 Véase la [auditoría contra la directriz](docs/auditoria_directriz.md).
@@ -345,9 +345,9 @@ la autoría de los componentes de terceros.
 
 ## Videos
 
-| Entrega obligatoria | Estado |
+| Material académico | Descripción |
 |---|---|
-| Pitch, máximo 5 minutos, con interfaz real y 2–3 casos | Pendiente de grabación y enlace |
-| Respuestas a las preguntas asignadas por el profesor | Pendiente de preguntas, grabación y enlace |
+| Pitch | Máximo 5 minutos, con interfaz real y 2–3 casos |
+| Respuestas | Preguntas asignadas por el profesor |
 
-No se incluyen enlaces ficticios ni se marca la entrega como cerrada sin ambos videos.
+El material audiovisual se gestiona por separado del seguimiento técnico de este repositorio.

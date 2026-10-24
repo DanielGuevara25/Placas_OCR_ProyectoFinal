@@ -39,17 +39,10 @@ Ver [demo temporal](demo_temporal.md) y [manual](manual_usuario.md).
 `tools/servidor_demo.py` y Waitress en `127.0.0.1:8081`. No se ha contratado
 alojamiento independiente; el PDF no exige pagar un servicio.
 
-## Pendientes obligatorios de presentación
+## Presentación académica
 
-1. Incorporar el pitch de máximo cinco minutos, con interfaz real, 2-3 casos,
-   manejo de errores, resultados, ética y enlace/QR del proyecto.
-2. Incorporar el video que responda las preguntas asignadas por el profesor,
-   en orden y numeradas, con la duración y plazo indicados por él.
-3. Añadir ambos enlaces reales al README y verificar permisos de acceso.
-4. Confirmar plazos: aparecen en blanco en el PDF proporcionado.
-
-No se aportaron videos verificables durante esta revisión. No se afirma que
-no existan fuera de la carpeta del proyecto; falta incorporarlos a la entrega.
+El material audiovisual y sus plazos se gestionan por separado de la lista de
+seguimiento técnico de este repositorio, según las indicaciones del profesor.
 
 ## Calidad y reproducibilidad por cerrar
 

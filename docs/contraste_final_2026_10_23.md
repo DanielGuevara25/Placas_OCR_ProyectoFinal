@@ -5,15 +5,15 @@ documentación. Se actualizaron README, planificación, arquitectura, ética,
 manual, pruebas y estado de entrega. Las inconsistencias descritas en la
 sección 3 de este informe registran el diagnóstico previo y ya se corrigieron.
 Consultar [estado vigente](estado_entrega.md) para los pendientes actuales.
-Esta actualización no graba videos, reactiva el túnel ni cierra los puntos
+Esta actualización no reactiva el túnel ni cierra los puntos
 de calidad/reproducibilidad identificados en la sección 4.
 
 ## Dictamen
 
-La base técnica está implementada y publicada, pero la entrega completa **no
-está cerrada**. Faltan incorporar los dos videos obligatorios y sus enlaces;
-restablecer y verificar el acceso de la demo; y pulir inconsistencias de la
-documentación y requisitos de calidad/reproducibilidad detallados abajo.
+La base técnica está implementada y publicada. El seguimiento actual se limita
+al repositorio y la demo: restablecer y verificar su acceso y revisar los puntos
+de calidad/reproducibilidad detallados abajo. La presentación audiovisual se
+gestiona por separado del seguimiento técnico del repositorio.
 
 Fuente: `PROYECTO_FINAL_descripcion_2026 (1).pdf`, 13 páginas, proporcionado
 por el usuario. SHA256:
@@ -49,7 +49,7 @@ autorización para comprar servicios, publicar datos ni inventar evidencias.
 | Requisito de la directriz | Evidencia | Resultado |
 |---|---|---|
 | Repositorio público y estructura, pp. 1-2 | GitHub; `docs/`, `data/`, `notebooks/`, `src/`, `models/`, `app/`, `tests/`, `results/` | Presente y publicado |
-| README con 14 apartados, pp. 2-3 | [README](../README.md) con badges, problema, datos, método, resultados, instalación, interfaz, autores, licencia y referencias | Parcial: videos sin enlaces y frases antiguas contradictorias |
+| README con 14 apartados, pp. 2-3 | [README](../README.md) con badges, problema, datos, método, resultados, instalación, interfaz, autores, licencia y referencias | Documentación técnica actualizada; material audiovisual gestionado por separado |
 | Dependencias, gitignore y licencia, pp. 1, 7-8 | Requirements principales y archivos específicos; AGPL-3.0-only y atribuciones | Presentes; requisitos raíz no fijan todas las versiones, aunque existe congelado Windows CPU |
 | Cinco notebooks, p. 2 | [Notebooks](../notebooks/) 01 a 05 ejecutados | Presente |
 | Código de preparación, modelo, entrenamiento y evaluación, p. 2 | `preparar_dataset.py`, `plate_detector.py`, `entrenar_placas.py`, `evaluar_ocr.py`, otros módulos en `src/` | Responsabilidades presentes con nombres adaptados a YOLO |
@@ -67,9 +67,9 @@ autorización para comprar servicios, publicar datos ni inventar evidencias.
 | Calidad, configuración y modularidad, p. 7 | Módulos separados, configuración, validación y manejo de errores | Parcial: estilo compacto con líneas extensas, docstrings desiguales; no se hizo auditoría completa PEP 8 |
 | Versionamiento, branches y tags, p. 7 | Seis commits descriptivos publicados; sólo rama `main`, sin tags observados | Commits presentes; falta evidenciar rama de desarrollo y versión etiquetada |
 | Al menos 3-5 tests, p. 8 | 16 pruebas aprobadas hoy | Supera el mínimo |
-| Pitch de máximo cinco minutos, pp. 8-9 | README lo declara pendiente; no se aportó video verificable | Falta incorporar y comprobar |
-| Video de preguntas del profesor, pp. 9-10 | No se aportaron preguntas ni video verificable; README pendiente | Falta incorporar y comprobar |
-| Ambos enlaces de videos en README, pp. 3, 10 | Tabla de videos sin URLs | Falta |
+| Pitch de máximo cinco minutos, pp. 8-9 | Requisito académico descrito en la directriz | Fuera del seguimiento técnico actual |
+| Video de preguntas del profesor, pp. 9-10 | Requisito académico descrito en la directriz | Fuera del seguimiento técnico actual |
+| Ambos enlaces de videos en README, pp. 3, 10 | Requisito académico descrito en la directriz | Gestión académica separada |
 
 La estructura del PDF muestra nombres orientativos genéricos (`model.py`,
 `best_model.pkl`, `assets/`). El proyecto usa módulos con responsabilidades
@@ -97,9 +97,9 @@ no garantiza ese nivel; tampoco autoriza a afirmar una mejora que no ocurrió.
 El resultado negativo está documentado y debe explicarse en la presentación.
 Los 60 ensayos proceden del ejemplo docente, no de un número exigido en este PDF.
 
-## Pendientes prioritarios
+## Revisión por área
 
-### 1. Videos obligatorios
+### 1. Presentación académica (referencia de la directriz)
 
 El pitch debe durar como máximo cinco minutos e incluir los siete bloques:
 problema 30 s, datos/método 60 s, desarrollo/optimización 45 s, demo real 60 s,
@@ -110,8 +110,8 @@ No hace falta una presentación en vivo: el PDF exige grabación de pantalla rea
 El segundo video responde todas las preguntas asignadas, en orden y numeradas;
 duración y plazo dependen de lo que entregue el profesor. No están especificados
 en el PDF aportado. Los plazos del pitch y preguntas aparecen en blanco.
-No se puede afirmar que estos videos no existan fuera de la carpeta revisada;
-lo pendiente verificable es aportarlos y enlazarlos en README con acceso habilitado.
+El estado del material audiovisual no se registra en esta lista de seguimiento
+técnico. Esta sección conserva los requisitos de la directriz como referencia.
 
 ### 2. Acceso real de la interfaz
 

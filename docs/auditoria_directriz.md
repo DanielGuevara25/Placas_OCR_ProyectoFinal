@@ -8,11 +8,11 @@ no a una garantía de calificación.
 |---|---|---|
 | Notebooks ausentes | Cinco `.ipynb` creados, ejecutados y validados; salidas conservadas | Publicados y presencia remota verificada |
 | Modelos inaccesibles | Tres `.pt` finales, manifiesto SHA256 y recuperador probado | Descarga pública de los tres verificada con tamaño y SHA256 |
-| README parcial | Apartados de problema, dataset, método, métricas, interfaz, notebooks, ética, autores, licencia, referencias y videos | Estructura completada; contenidos pendientes señalados |
+| README parcial | Problema, datos, método, métricas, interfaz, notebooks, ética, autores, licencia y referencias | Documentación técnica actualizada; material audiovisual gestionado por separado |
 | Licencia ausente | Textos de terceros revisados; equipo autorizó AGPL-3.0-only y se añadió LICENSE | Resuelto; datos y terceros mantienen sus condiciones |
 | Optimización S5 incompleta | 60 ensayos procesados, 17 completos; dos ajustes de 100 épocas, nueve escenarios e importancia/PDP | Ejecutado localmente; ver `resultados_semana5.md` |
 
-Persisten la reactivación y comprobación del acceso temporal y los dos videos.
+Persiste la reactivación y comprobación del acceso temporal.
 La demo protegida se probó el 21/10; el 23/10 no había túnel activo.
 La publicación se verificó
 el 21/10/2026; evidencia en `results/reports/verificacion_github.json`.

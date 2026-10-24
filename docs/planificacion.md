@@ -38,7 +38,7 @@ evidencia, resultados y limitaciones para revisión humana.
 | Comprobar el comportamiento | 16 pruebas unitarias aprobadas el 23/10, 3 casos reales previos y recorrido visual | Ejecutado con límites documentados |
 | Documentar arquitectura, datos, optimización y ética | Seis documentos, cinco notebooks y estudio ampliado S5 | Documentado; S5 terminado el 21/10 sin mejora demostrada |
 | Publicar una versión reproducible | GitHub público, tres modelos descargables y demo por túnel protegida | Publicado; reactivar y verificar demo antes de evaluar; clon limpio Linux pendiente |
-| Comunicar el proyecto | Pitch y respuestas a preguntas | Pendiente |
+| Comunicar el proyecto | Pitch y respuestas a preguntas | Gestión académica separada del repositorio |
 
 ## Alcance
 
@@ -90,7 +90,7 @@ no se dispone de un cronograma inicial para medir desviaciones frente al plan.
 | Optimización ampliada | Adaptar Workshop S5 y ejecutar búsqueda/robustez | 60 ensayos, dos ajustes de 100 épocas y nueve escenarios | 20-21/10/2026, registros de `results/semana5/` |
 | Publicación | GitHub, pesos y demostración | Repositorio y descargas verificados; demo protegida probada por HTTPS | 21/10/2026; el 23/10 el túnel estaba inactivo y debe reabrirse |
 | Cierre documental | Unificar el estado de los documentos | Actualización de planificación, arquitectura, ética, manual, pruebas y README | 23/10/2026, revisión contra la directriz |
-| Presentación | Grabar pitch y responder preguntas asignadas | Pendiente | Plazos oficiales pendientes |
+| Presentación | Pitch y respuestas a preguntas asignadas | Gestión académica separada | Según indicaciones del profesor |
 
 No se calcula retraso ni cumplimiento de plazos porque no se dispone de la
 fecha límite ni de un cronograma inicial por fase. La fecha de inicio confirmada
