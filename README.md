@@ -345,9 +345,11 @@ la autoría de los componentes de terceros.
 
 ## Videos
 
-| Material académico | Descripción |
-|---|---|
-| Pitch | Máximo 5 minutos, con interfaz real y 2–3 casos | https://drive.google.com/file/d/1VaT5NQ_EQPhETlvER-g6YxhyI6vMoP-Y/view?usp=sharing
-| Respuestas | Preguntas asignadas por el profesor | https://drive.google.com/file/d/1ncuHPUyB5bHTMYRC7Bf-q67f2pEaDU20/view?usp=sharing
+
+| Material académico | Descripción | Enlace |
+|---|---|---|
+| Pitch | Máximo 5 minutos, con interfaz real y 2–3 casos | [🎥 Ver video](https://drive.google.com/file/d/1VaT5NQ_EQPhETlvER-g6YxhyI6vMoP-Y/view?usp=sharing) |
+| Respuestas | Preguntas asignadas por el profesor | [🎥 Ver video](https://drive.google.com/file/d/1ncuHPUyB5bHTMYRC7Bf-q67f2pEaDU20/view?usp=sharing) |
+
 
 El material audiovisual se gestiona por separado del seguimiento técnico de este repositorio.
