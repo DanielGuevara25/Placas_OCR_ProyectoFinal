@@ -31,6 +31,13 @@ class DemoSecurityTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             install_demo_access(Flask('bad'), 'corta')
 
+    def test_eleven_character_password_accepted(self):
+        app = Flask('eleven')
+        install_demo_access(app, 'demo-12345!', 'equipo')
+        app.add_url_rule('/', view_func=lambda: 'demo')
+        auth = 'Basic '+base64.b64encode(b'equipo:demo-12345!').decode()
+        self.assertEqual(app.test_client().get('/', headers={'Authorization': auth}).status_code, 200)
+
 
 if __name__ == '__main__':
     unittest.main()

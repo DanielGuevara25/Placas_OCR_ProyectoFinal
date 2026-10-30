@@ -41,7 +41,7 @@ de la aplicación y descargar `cloudflared` oficial, abrir dos terminales:
 ```
 
 El primer comando requiere el archivo de acceso local ya preparado. Para
-otra instalación se debe generar una contraseña aleatoria de al menos 16
+otra instalación se debe configurar una contraseña de al menos 10
 caracteres y guardarla en ese archivo como JSON con `username` y `password`.
 No copiar ese archivo al repositorio. Usar siempre el enlace HTTPS generado,
 sin insertar la contraseña en la URL.
