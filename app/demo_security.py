@@ -9,8 +9,8 @@ from flask import g, jsonify, request
 
 
 def install_demo_access(app, password, username='equipo'):
-    if not password or len(password) < 16:
-        raise ValueError('La contraseña de demostración debe tener al menos 16 caracteres.')
+    if not password or len(password) < 10:
+        raise ValueError('La contraseña de demostración debe tener al menos 10 caracteres.')
     limits = {'all': (180, 60), 'detect': (6, 60), 'failed_login': (30, 60)}
     events = {name: deque() for name in limits}
     lock = threading.Lock()
